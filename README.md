@@ -5,6 +5,7 @@ An awesome list of deception technology resources
 # Contents
 - [Papers](#papers)
 - [Related Lists](#related-lists)
+- [Videos](#videos)
 
 # Papers
 - 2018
@@ -15,3 +16,6 @@ An awesome list of deception technology resources
   
 # Related Lists
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
+
+# Videos
+- [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
