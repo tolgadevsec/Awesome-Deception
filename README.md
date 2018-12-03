@@ -21,4 +21,5 @@ An awesome list of deception technology resources
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
 - [Applied Deception Beyond the Honeypot: Moving Past 101](https://www.youtube.com/watch?v=ctrHLkpzoMk)
 - [Honeypots, Deception, and Frankenstein](https://www.youtube.com/watch?v=k81xKjCEeqE)
+- [Honeypots 2.0: A New ‘Twist’ on Defending Enterprise Networks with Dynamic Deception at Scale](https://www.youtube.com/watch?v=0lVqOsPmr6c)
 - [SANS Webcast: Opening a can of Active Defense and Cyber Deception to confuse and frustrate attackers](https://www.youtube.com/watch?v=bQH1XEPiykM)
