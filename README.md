@@ -20,3 +20,4 @@ An awesome list of deception technology resources
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
 - [Applied Deception Beyond the Honeypot: Moving Past 101](https://www.youtube.com/watch?v=ctrHLkpzoMk)
+- [Honeypots, Deception, and Frankenstein](https://www.youtube.com/watch?v=k81xKjCEeqE)
