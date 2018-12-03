@@ -3,9 +3,13 @@
 An awesome list of deception technology resources
 
 # Contents
+- [Books](#books)
 - [Papers](#papers)
 - [Related Lists](#related-lists)
 - [Videos](#videos)
+
+# Books
+- [Offensive Countermeasures: The Art of Active Defense](http://a.co/d/arFIRCL)
 
 # Papers
 - 2018
@@ -23,3 +27,4 @@ An awesome list of deception technology resources
 - [Honeypots, Deception, and Frankenstein](https://www.youtube.com/watch?v=k81xKjCEeqE)
 - [Honeypots 2.0: A New ‘Twist’ on Defending Enterprise Networks with Dynamic Deception at Scale](https://www.youtube.com/watch?v=0lVqOsPmr6c)
 - [SANS Webcast: Opening a can of Active Defense and Cyber Deception to confuse and frustrate attackers](https://www.youtube.com/watch?v=bQH1XEPiykM)
+- [Honeypots for Active Defense A Practical Guide to Deploying Honeynets Within the Enterprise](https://youtu.be/zDTqY3ehA74)
