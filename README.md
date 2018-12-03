@@ -1,8 +1,17 @@
-# Awesome Deception Technology
+# Awesome Deception Technology [![Awesome Deception Technology](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 An awesome list of deception technology resources
+
+# Contents
+- [Papers](#papers)
+- [Related Lists](#related-lists)
+
 # Papers
 - 2018
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
   - [Multi-paradigm deception modeling for cyber defense](https://www.sciencedirect.com/science/article/pii/S0164121218300499)
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
   - [A SPL Framework for Adaptive Deception-based Defense](https://scholarspace.manoa.hawaii.edu/handle/10125/50580)
+  
+# Related Lists
+- [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
