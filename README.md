@@ -31,12 +31,19 @@ application security: application-layer
 approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1114330/FULLTEXT02.pdf)
   - [Evaluation of Deception-Based Web Attacks Detection
 ](http://s3.eurecom.fr/docs/mtd17_han_deception.pdf)
+  - [HoneyIo4: the construction of a virtual, low-interaction IoT Honeypot](https://upcommons.upc.edu/bitstream/handle/2117/108166/Alejandro_Guerra_Manzanares.pdf)
+- 2016
+  - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
 - 2013
   - [Detecting Targeted Attacks by Multilayer
 Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439_224.pdf)
+  - [Improving Security Using Deception](https://www.meshekah.com/publication/reports/improving_security_using_deception.pdf)
+  - [Bait and Snitch: Defending Computer Systems with
+Decoys
+](http://www.cs.columbia.edu/nsl/papers/2012/baitsnitch.cip12.pdf)
   
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
