@@ -24,6 +24,9 @@ An awesome list of deception technology resources
   - [Strategic Defense and Attack in Deception Based Network Security](https://www.researchgate.net/publication/321319096_Strategic_Defense_and_Attack_in_Deception_Based_Network_Security)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
+- 2014
+  - [From Patches to Honey-Patches: Lightweight
+Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
   
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
