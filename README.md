@@ -9,6 +9,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Books
+- [Honeypots for Windows](http://a.co/d/dcUdSJA)
 - [Offensive Countermeasures: The Art of Active Defense](http://a.co/d/arFIRCL)
 - [Virtual Honeypots: From Botnet Tracking to Intrusion Detection](http://a.co/d/jjfzssu)
 
