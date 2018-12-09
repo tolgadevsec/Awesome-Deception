@@ -25,6 +25,9 @@ An awesome list of deception technology resources
   - [Bitter Harvest: Systematically Fingerprinting Low- and Medium-interaction Honeypots at Internet Scale](https://www.usenix.org/conference/woot18/presentation/vetterl)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
+  - [Deception strategies for web
+application security: application-layer
+approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1114330/FULLTEXT02.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
