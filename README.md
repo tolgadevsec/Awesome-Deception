@@ -17,7 +17,8 @@ An awesome list of deception technology resources
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
   - [Multi-paradigm deception modeling for cyber defense](https://www.sciencedirect.com/science/article/pii/S0164121218300499)
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
-  - [A SPL Framework for Adaptive Deception-based Defense](https://scholarspace.manoa.hawaii.edu/handle/10125/50580)
+  - [Defending Web Servers with Feints, Distraction and Obfuscation](https://www.researchgate.net/publication/321319199_Defending_Web_Servers_with_Feints_Distraction_and_Obfuscation)
+  - [Strategic Defense and Attack in Deception Based Network Security](https://www.researchgate.net/publication/321319096_Strategic_Defense_and_Attack_in_Deception_Based_Network_Security)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   
