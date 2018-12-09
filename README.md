@@ -28,6 +28,7 @@ An awesome list of deception technology resources
   - [Strategic Defense and Attack in Deception Based Network Security](https://www.researchgate.net/publication/321319096_Strategic_Defense_and_Attack_in_Deception_Based_Network_Security)
   - [Bitter Harvest: Systematically Fingerprinting Low- and Medium-interaction Honeypots at Internet Scale](https://www.usenix.org/conference/woot18/presentation/vetterl)
   - [A SPL Framework for Adaptive Deception-based Defense](https://core.ac.uk/download/pdf/143481525.pdf)
+  - [Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   - [Deception strategies for web
