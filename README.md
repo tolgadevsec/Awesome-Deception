@@ -28,6 +28,8 @@ An awesome list of deception technology resources
   - [Deception strategies for web
 application security: application-layer
 approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1114330/FULLTEXT02.pdf)
+  - [Evaluation of Deception-Based Web Attacks Detection
+](http://s3.eurecom.fr/docs/mtd17_han_deception.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
