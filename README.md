@@ -35,6 +35,9 @@ approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
+- 2013
+  - [Detecting Targeted Attacks by Multilayer
+Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439_224.pdf)
   
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
