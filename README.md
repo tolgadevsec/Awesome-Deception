@@ -33,3 +33,4 @@ An awesome list of deception technology resources
 - [SANS Webcast: Opening a can of Active Defense and Cyber Deception to confuse and frustrate attackers](https://www.youtube.com/watch?v=bQH1XEPiykM)
 - [Deceptive Defense: Beyond Honeypots](https://youtu.be/ZxbtFJBpKGg)
 - [Honeypots for Active Defense A Practical Guide to Deploying Honeynets Within the Enterprise](https://youtu.be/zDTqY3ehA74)
+- [The matrix has you: Protecting Linux using deception](https://youtu.be/abamlxFHElw)
