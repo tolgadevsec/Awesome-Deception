@@ -34,6 +34,8 @@ approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1
   - [HoneyIo4: the construction of a virtual, low-interaction IoT Honeypot](https://upcommons.upc.edu/bitstream/handle/2117/108166/Alejandro_Guerra_Manzanares.pdf)
 - 2016
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
+- 2015
+  - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
