@@ -10,14 +10,16 @@ An awesome list of deception technology resources
 
 # Books
 - [Offensive Countermeasures: The Art of Active Defense](http://a.co/d/arFIRCL)
-- [Virtual Honeypots: From Botnet Tracking to Intrusion Detectio](http://a.co/d/jjfzssu)
+- [Virtual Honeypots: From Botnet Tracking to Intrusion Detection](http://a.co/d/jjfzssu)
 
-# Papers
+# Papers and Dissertations
 - 2018
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
   - [Multi-paradigm deception modeling for cyber defense](https://www.sciencedirect.com/science/article/pii/S0164121218300499)
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
   - [A SPL Framework for Adaptive Deception-based Defense](https://scholarspace.manoa.hawaii.edu/handle/10125/50580)
+- 2017
+  - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   
 # Related Lists
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
