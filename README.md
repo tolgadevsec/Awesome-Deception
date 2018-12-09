@@ -10,6 +10,7 @@ An awesome list of deception technology resources
 
 # Books
 - [Offensive Countermeasures: The Art of Active Defense](http://a.co/d/arFIRCL)
+- [Virtual Honeypots: From Botnet Tracking to Intrusion Detectio](http://a.co/d/jjfzssu)
 
 # Papers
 - 2018
