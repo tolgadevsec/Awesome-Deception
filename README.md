@@ -31,4 +31,5 @@ An awesome list of deception technology resources
 - [Honeypots, Deception, and Frankenstein](https://www.youtube.com/watch?v=k81xKjCEeqE)
 - [Honeypots 2.0: A New ‘Twist’ on Defending Enterprise Networks with Dynamic Deception at Scale](https://www.youtube.com/watch?v=0lVqOsPmr6c)
 - [SANS Webcast: Opening a can of Active Defense and Cyber Deception to confuse and frustrate attackers](https://www.youtube.com/watch?v=bQH1XEPiykM)
+- [Deceptive Defense: Beyond Honeypots](https://youtu.be/ZxbtFJBpKGg)
 - [Honeypots for Active Defense A Practical Guide to Deploying Honeynets Within the Enterprise](https://youtu.be/zDTqY3ehA74)
