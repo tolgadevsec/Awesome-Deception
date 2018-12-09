@@ -22,6 +22,7 @@ An awesome list of deception technology resources
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
   - [Defending Web Servers with Feints, Distraction and Obfuscation](https://www.researchgate.net/publication/321319199_Defending_Web_Servers_with_Feints_Distraction_and_Obfuscation)
   - [Strategic Defense and Attack in Deception Based Network Security](https://www.researchgate.net/publication/321319096_Strategic_Defense_and_Attack_in_Deception_Based_Network_Security)
+  - [Bitter Harvest: Systematically Fingerprinting Low- and Medium-interaction Honeypots at Internet Scale](https://www.usenix.org/conference/woot18/presentation/vetterl)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
 - 2014
