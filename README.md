@@ -42,16 +42,30 @@ approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1
 Intruder Behavior](https://www.securitee.org/files/pickyattackers_acsac2017.pdf)
   - [Weems: An extensible HTTP honeypot](https://researchspace.csir.co.za/dspace/bitstream/handle/10204/9691/Pearson_19652_2017.pdf)
   - [Understanding Security Flaws of IoT Protocols through Honeypot Technologies](https://repository.tudelft.nl/islandora/object/uuid:f4be5514-e9df-499a-8eea-f78c510d3346?collection=education)
+  - [HONEYPHY: A PHYSICS-AWARE CPS HONEYPOT FRAMEWORK
+](https://smartech.gatech.edu/bitstream/handle/1853/58329/LITCHFIELD-THESIS-2017.pdf)
+  - [Designing a smartphone honeypot system using performance counters](https://www.sciencedirect.com/science/article/pii/S2405609X16304225)
+  - [Enhancing Honeypot Deception Capability
+Through Network Service Fingerprinting
+](http://iopscience.iop.org/article/10.1088/1742-6596/801/1/012057/pdf)
+  - [https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.pdf](https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.pdf)
 - 2016
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
   - [Design and Implementation of a Real-Time
 Honeypot System for the Detection and
 Prevention of Systems Attacks](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1011&context=msia_etds)
   - [Active defence using an operational technology honeypot](https://www.atkinsglobal.com/~/media/Files/A/Atkins-Corporate/uk-and-europe/services-documents/cyber/Active%20defence%20with%20an%20OT%20honeypot.pdf)
+  - [SIMULATION OF INDUSTRIAL CONTROL SYSTEM
+FIELD DEVICES FOR CYBER SECURITY](http://www.diva-portal.org/smash/get/diva2:1076710/FULLTEXT01.pdf)
+  - [Deception-Based Game Theoretical Approach to Mitigate DoS Attacks](https://www.researchgate.net/publication/313076022_Deception-Based_Game_Theoretical_Approach_to_Mitigate_DoS_Attacks)
+  - [MobiPot: Understanding Mobile
+Telephony Threats with Honeycards](http://www.madlab.it/papers/mobipot.pdf)
 - 2015
   - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Toward an Insider Threat Detection Framework
 Using Honey Permissions](http://people.tamu.edu/~kaghazgaran/papers/JISIS-15.pdf)
+  - [Weaving Tangled Webs: Offense, Defense, and
+Deception in Cyberspace](http://deterrence.ucsd.edu/_files/Weaving%20Tangled%20Webs_%20Offense%20Defense%20and%20Deception%20in%20Cyberspace.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
@@ -64,6 +78,8 @@ Decoys
 ](http://www.cs.columbia.edu/nsl/papers/2012/baitsnitch.cip12.pdf)
   - [Canary Files: Generating Fake Files to Detect Critical Data Loss from Complex Computer Networks](http://sdiwc.net/digital-library/canary-files-generating-fake-files-to-detect-critical-data-loss-from-complex-computer-networks.html)
   - [Honeywords: Making Password-Cracking Detectable](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
+- 2008
+  - [https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
   
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
