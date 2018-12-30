@@ -53,6 +53,8 @@ Honeypot Systems: A Survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.p
   - [Review on Honeypot Security](https://www.irjet.net/archives/V4/i6/IRJET-V4I6221.pdf)
   - [A Virtual Honeypot Framework for Server Configuration Using IDS
 For Login Authentications](https://www.ijrter.com/papers/volume-3/issue-5/a-virtual-honeypot-framework-for-server-configuration-using-ids-for-login-authentications.pdf)
+  - [Automating the Generation of Enticing Text Content for High-Interaction
+Honeyfiles](https://core.ac.uk/download/pdf/77240199.pdf)
 - 2016
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
   - [Design and Implementation of a Real-Time
@@ -91,6 +93,12 @@ Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
 ](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
 - 2007
   - [Intrusion deception in defense of computer systems](https://calhoun.nps.edu/bitstream/handle/10945/3534/07Mar_Goh.pdf?sequence=1&isAllowed=y)
+- 2006
+  - [Defensive Computer-Security Deception Operations: Processes, Principles and Techniques](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/5648/etd.pdf?sequence=1&isAllowed=y)
+  - [Using deception to hide things from hackers: Processes, principles, and
+techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1b6e497.pdf)
+- 2004
+  - [Honeyfiles: Deceptive files for intrusion detection](https://www.researchgate.net/publication/4147587_Honeyfiles_Deceptive_files_for_intrusion_detection)
 - 2002
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
