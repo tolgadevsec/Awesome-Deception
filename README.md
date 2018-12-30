@@ -25,6 +25,7 @@ An awesome list of deception technology resources
   - [Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
   - [U-PoT: A Honeypot Framework for UPnP-Based
 IoT Devices](https://arxiv.org/pdf/1812.05558.pdf)
+  - [HoneyThing: A New Honeypot Design for CPE Devices](http://itiis.org/digital-library/manuscript/2130)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   - [Deception strategies for web
