@@ -83,9 +83,18 @@ Decoys
 ](http://www.cs.columbia.edu/nsl/papers/2012/baitsnitch.cip12.pdf)
   - [Canary Files: Generating Fake Files to Detect Critical Data Loss from Complex Computer Networks](http://sdiwc.net/digital-library/canary-files-generating-fake-files-to-detect-critical-data-loss-from-complex-computer-networks.html)
   - [Honeywords: Making Password-Cracking Detectable](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
+- 2012
+  - [A Security Mechanism for Web Servers Based on
+Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
 - 2008
   - [Virtual honeynet with simulated user activity
 ](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
+- 2007
+  - [Intrusion deception in defense of computer systems](https://calhoun.nps.edu/bitstream/handle/10945/3534/07Mar_Goh.pdf?sequence=1&isAllowed=y)
+- 2002
+  - [Delaying-type responses for use by software decoys
+](https://core.ac.uk/download/pdf/36698753.pdf)
+  - [Software Decoys: Intrusion Detection and Countermeasures](https://www.researchgate.net/publication/242426017_Software_Decoys_Intrusion_Detection_and_Countermeasures)
   
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
