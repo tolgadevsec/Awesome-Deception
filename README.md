@@ -48,7 +48,11 @@ Intruder Behavior](https://www.securitee.org/files/pickyattackers_acsac2017.pdf)
   - [Enhancing Honeypot Deception Capability
 Through Network Service Fingerprinting
 ](http://iopscience.iop.org/article/10.1088/1742-6596/801/1/012057/pdf)
-  - [https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.pdf](https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.pdf)
+  - [Enabling an Anatomic View to Investigate
+Honeypot Systems: A Survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.pdf)
+  - [Review on Honeypot Security](https://www.irjet.net/archives/V4/i6/IRJET-V4I6221.pdf)
+  - [A Virtual Honeypot Framework for Server Configuration Using IDS
+For Login Authentications](https://www.ijrter.com/papers/volume-3/issue-5/a-virtual-honeypot-framework-for-server-configuration-using-ids-for-login-authentications.pdf)
 - 2016
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
   - [Design and Implementation of a Real-Time
@@ -66,6 +70,7 @@ Telephony Threats with Honeycards](http://www.madlab.it/papers/mobipot.pdf)
 Using Honey Permissions](http://people.tamu.edu/~kaghazgaran/papers/JISIS-15.pdf)
   - [Weaving Tangled Webs: Offense, Defense, and
 Deception in Cyberspace](http://deterrence.ucsd.edu/_files/Weaving%20Tangled%20Webs_%20Offense%20Defense%20and%20Deception%20in%20Cyberspace.pdf)
+  - [Denial and Deception in Cyber Defense](https://www.researchgate.net/publication/275270540_Denial_and_Deception_in_Cyber_Defense)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
@@ -79,7 +84,8 @@ Decoys
   - [Canary Files: Generating Fake Files to Detect Critical Data Loss from Complex Computer Networks](http://sdiwc.net/digital-library/canary-files-generating-fake-files-to-detect-critical-data-loss-from-complex-computer-networks.html)
   - [Honeywords: Making Password-Cracking Detectable](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
 - 2008
-  - [https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
+  - [Virtual honeynet with simulated user activity
+](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
   
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
