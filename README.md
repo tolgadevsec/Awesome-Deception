@@ -66,6 +66,9 @@ FIELD DEVICES FOR CYBER SECURITY](http://www.diva-portal.org/smash/get/diva2:107
   - [Deception-Based Game Theoretical Approach to Mitigate DoS Attacks](https://www.researchgate.net/publication/313076022_Deception-Based_Game_Theoretical_Approach_to_Mitigate_DoS_Attacks)
   - [MobiPot: Understanding Mobile
 Telephony Threats with Honeycards](http://www.madlab.it/papers/mobipot.pdf)
+  - [Gathering threat intelligence through computer network
+deception](https://www.osti.gov/servlets/purl/1368844)
+  - [An improved tarpit for network deception](https://calhoun.nps.edu/handle/10945/48595)
 - 2015
   - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Toward an Insider Threat Detection Framework
@@ -73,9 +76,13 @@ Using Honey Permissions](http://people.tamu.edu/~kaghazgaran/papers/JISIS-15.pdf
   - [Weaving Tangled Webs: Offense, Defense, and
 Deception in Cyberspace](http://deterrence.ucsd.edu/_files/Weaving%20Tangled%20Webs_%20Offense%20Defense%20and%20Deception%20in%20Cyberspace.pdf)
   - [Denial and Deception in Cyber Defense](https://www.researchgate.net/publication/275270540_Denial_and_Deception_in_Cyber_Defense)
+  - [Fox in the Trap: Thwarting Masqueraders via Automated
+Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurosec_15_0.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
+  - [Changing the game: The art of deceiving sophisticated
+attackers](https://ccdcoe.org/cycon/2014/proceedings/d2r2s6_serrano.pdf)
 - 2013
   - [Detecting Targeted Attacks by Multilayer
 Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439_224.pdf)
@@ -85,6 +92,8 @@ Decoys
 ](http://www.cs.columbia.edu/nsl/papers/2012/baitsnitch.cip12.pdf)
   - [Canary Files: Generating Fake Files to Detect Critical Data Loss from Complex Computer Networks](http://sdiwc.net/digital-library/canary-files-generating-fake-files-to-detect-critical-data-loss-from-complex-computer-networks.html)
   - [Honeywords: Making Password-Cracking Detectable](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
+  - [A Technique for Presenting a Deceptive
+Dynamic Network Topology](https://calhoun.nps.edu/bitstream/handle/10945/32911/13Mar_Trassare_Samuel.pdf?sequence=1&isAllowed=y)
 - 2012
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
@@ -99,6 +108,10 @@ Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
 techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1b6e497.pdf)
 - 2004
   - [Honeyfiles: Deceptive files for intrusion detection](https://www.researchgate.net/publication/4147587_Honeyfiles_Deceptive_files_for_intrusion_detection)
+- 2003
+  - [Honeytokens: The Other Honeypot](https://www.symantec.com/connect/articles/honeytokens-other-honeypot)
+  - [Honeypots: Catching the
+Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
 - 2002
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
