@@ -46,6 +46,7 @@ Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2
 Decoys
 ](http://www.cs.columbia.edu/nsl/papers/2012/baitsnitch.cip12.pdf)
   - [Canary Files: Generating Fake Files to Detect Critical Data Loss from Complex Computer Networks](http://sdiwc.net/digital-library/canary-files-generating-fake-files-to-detect-critical-data-loss-from-complex-computer-networks.html)
+  - [Honeywords: Making Password-Cracking Detectable](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
   
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
