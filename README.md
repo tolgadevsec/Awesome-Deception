@@ -26,6 +26,8 @@ An awesome list of deception technology resources
   - [U-PoT: A Honeypot Framework for UPnP-Based
 IoT Devices](https://arxiv.org/pdf/1812.05558.pdf)
   - [HoneyThing: A New Honeypot Design for CPE Devices](http://itiis.org/digital-library/manuscript/2130)
+  - [Efficiency and Security of Docker Based Honeypot Systems](http://docs.mipro-proceedings.com/iss/iss_07_5091.pdf)
+  - [An Application of Jeeves for Honeypot Sanitization](http://www.cs.umd.edu/sites/default/files/scholarly_papers/Webster%2C%20Ashton_1801.pdf)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   - [Deception strategies for web
@@ -34,8 +36,18 @@ approaches and a testing platform](https://ltu.diva-portal.org/smash/get/diva2:1
   - [Evaluation of Deception-Based Web Attacks Detection
 ](http://s3.eurecom.fr/docs/mtd17_han_deception.pdf)
   - [HoneyIo4: the construction of a virtual, low-interaction IoT Honeypot](https://upcommons.upc.edu/bitstream/handle/2117/108166/Alejandro_Guerra_Manzanares.pdf)
+  - [Honey-Copy-A Concept and Prototype of a Generic Honeypot System](https://www.researchgate.net/publication/321805754_Honey-Copy-A_Concept_and_Prototype_of_a_Generic_Honeypot_System)
+  - [Deception using an SSH honeypot](https://calhoun.nps.edu/bitstream/handle/10945/56156/17Sep_McCaughey_Ryan.pdf)
+  - [Picky Attackers: Quantifying the Role of System Properties on
+Intruder Behavior](https://www.securitee.org/files/pickyattackers_acsac2017.pdf)
+  - [Weems: An extensible HTTP honeypot](https://researchspace.csir.co.za/dspace/bitstream/handle/10204/9691/Pearson_19652_2017.pdf)
+  - [Understanding Security Flaws of IoT Protocols through Honeypot Technologies](https://repository.tudelft.nl/islandora/object/uuid:f4be5514-e9df-499a-8eea-f78c510d3346?collection=education)
 - 2016
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
+  - [Design and Implementation of a Real-Time
+Honeypot System for the Detection and
+Prevention of Systems Attacks](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1011&context=msia_etds)
+  - [Active defence using an operational technology honeypot](https://www.atkinsglobal.com/~/media/Files/A/Atkins-Corporate/uk-and-europe/services-documents/cyber/Active%20defence%20with%20an%20OT%20honeypot.pdf)
 - 2015
   - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Toward an Insider Threat Detection Framework
