@@ -10,6 +10,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Unveiling Patchwork – a targeted attack caught with cyber deception](https://cymmetria.com/research/patchwork-targeted-attack/)
 - [“Deception as Detection” or Give Deception a Chance?](https://blogs.gartner.com/anton-chuvakin/2016/01/08/deception-as-detection-or-give-deception-a-chance/)
 
 # Communities
