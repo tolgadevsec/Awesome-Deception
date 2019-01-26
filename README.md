@@ -3,10 +3,14 @@
 An awesome list of deception technology resources
 
 # Contents
+- [Articles](#articles)
 - [Communities](#communities)
 - [Related Lists](#related-lists)
 - [Research](#research)
 - [Videos](#videos)
+
+# Articles
+- [“Deception as Detection” or Give Deception a Chance?](https://blogs.gartner.com/anton-chuvakin/2016/01/08/deception-as-detection-or-give-deception-a-chance/)
 
 # Communities
 - [/r/honeypot](https://www.reddit.com/r/honeypot/)
