@@ -10,6 +10,10 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Cowrie Honeypot Analysis - 24 hours after installing a fresh Cowrie Honeypot 
+on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cowrie-honeypot-analysis-24hrs/)
+- [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.rapid7.com/2016/11/30/early-warning-detectors-using-aws-access-keys-honeytokens/)
+- [Introduction to T-Pot - The all in one honeypot](https://northsec.tech/introduction-to-t-pot-the-all-in-one-honeypot/)
 - [Unveiling Patchwork – a targeted attack caught with cyber deception](https://cymmetria.com/research/patchwork-targeted-attack/)
 - [“Deception as Detection” or Give Deception a Chance?](https://blogs.gartner.com/anton-chuvakin/2016/01/08/deception-as-detection-or-give-deception-a-chance/)
 
