@@ -25,6 +25,10 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 
 # Research
+- 2019
+  - [The Tularosa Study: An Experimental Design and Implementation to
+Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/bitstream/10125/60164/0724.pdf)
+  - [How deception can change cyber security defences](https://www.sciencedirect.com/science/article/pii/S1361372319300089)
 - 2018
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
