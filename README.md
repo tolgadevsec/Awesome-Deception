@@ -26,6 +26,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 
 # Research
 - 2019
+  - [Honeypot boulevard: understanding malicious activity via decoy accounts](http://discovery.ucl.ac.uk/10066774/)
   - [The Tularosa Study: An Experimental Design and Implementation to
 Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/bitstream/10125/60164/0724.pdf)
   - [How deception can change cyber security defences](https://www.sciencedirect.com/science/article/pii/S1361372319300089)
