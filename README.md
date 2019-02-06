@@ -20,6 +20,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 
 # Communities
 - [/r/honeypot](https://www.reddit.com/r/honeypot/)
+- [The Honeynet Project](https://www.honeynet.org/)
 
 # Related Lists
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
