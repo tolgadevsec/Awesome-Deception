@@ -10,6 +10,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Reflections Upon Deception-Based Security Tactics](https://zeltser.com/deception-security-tactics/)
 - [Running A SSH Honeypot With Kippo: Let’s Catch Some Script Kiddies](http://blog.macuyiko.com/post/2011/running-a-ssh-honeypot-with-kippo-lets-catch-some-script-kiddies.html)
 - [Cowrie Honeypot Analysis - 24 hours after installing a fresh Cowrie Honeypot 
 on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cowrie-honeypot-analysis-24hrs/)
