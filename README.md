@@ -10,6 +10,9 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Getting Started With HoneyPy — Part 1](https://labs.signalsciences.com/honeypy-part-1-getting-started)
+- [Getting Started With HoneyPy — Part 2](https://labs.signalsciences.com/getting-started-with-honeypy-part-2)
+- [Getting Started With HoneyPy — Part 3](https://labs.signalsciences.com/getting-started-with-honeypy-part-3)
 - [Reflections Upon Deception-Based Security Tactics](https://zeltser.com/deception-security-tactics/)
 - [Running A SSH Honeypot With Kippo: Let’s Catch Some Script Kiddies](http://blog.macuyiko.com/post/2011/running-a-ssh-honeypot-with-kippo-lets-catch-some-script-kiddies.html)
 - [Cowrie Honeypot Analysis - 24 hours after installing a fresh Cowrie Honeypot 
