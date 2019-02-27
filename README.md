@@ -10,6 +10,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Introduction to HoneyPy & HoneyDB](https://labs.signalsciences.com/honeypots-introduction-honeypy-honeydb)
 - [Getting Started With HoneyPy — Part 1](https://labs.signalsciences.com/honeypy-part-1-getting-started)
 - [Getting Started With HoneyPy — Part 2](https://labs.signalsciences.com/getting-started-with-honeypy-part-2)
 - [Getting Started With HoneyPy — Part 3](https://labs.signalsciences.com/getting-started-with-honeypy-part-3)
