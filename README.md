@@ -32,6 +32,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 
 # Research
 - 2019
+  - [From Cyber-Security Deception To Manipulation and Gratification Through Gamification](https://www.researchgate.net/publication/331949692_From_Cyber-Security_Deception_To_Manipulation_and_Gratification_Through_Gamification)
   - [Honeypot boulevard: understanding malicious activity via decoy accounts](http://discovery.ucl.ac.uk/10066774/)
   - [The Tularosa Study: An Experimental Design and Implementation to
 Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/bitstream/10125/60164/0724.pdf)
