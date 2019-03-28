@@ -37,6 +37,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/bitstream/10125/60164/0724.pdf)
   - [How deception can change cyber security defences](https://www.sciencedirect.com/science/article/pii/S1361372319300089)
 - 2018
+  - [Cloxy: A Context-aware Deception-as-a-ServiceReverse Proxy for Web Services](https://www.researchgate.net/publication/327034328_Cloxy_A_Context-aware_Deception-as-a-Service_Reverse_Proxy_for_Web_Services)
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
   - [Defending Web Servers with Feints, Distraction and Obfuscation](https://www.researchgate.net/publication/321319199_Defending_Web_Servers_with_Feints_Distraction_and_Obfuscation)
