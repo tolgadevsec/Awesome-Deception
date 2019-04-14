@@ -22,10 +22,12 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 - [Introduction to T-Pot - The all in one honeypot](https://northsec.tech/introduction-to-t-pot-the-all-in-one-honeypot/)
 - [Unveiling Patchwork – a targeted attack caught with cyber deception](https://cymmetria.com/research/patchwork-targeted-attack/)
 - [“Deception as Detection” or Give Deception a Chance?](https://blogs.gartner.com/anton-chuvakin/2016/01/08/deception-as-detection-or-give-deception-a-chance/)
+- [Deploy a fake Bitcoin wallet to save your own](https://www.theregister.co.uk/2014/06/05/deploy_a_fake_bitcoin_wallet_to_save_your_own/)
 
 # Communities
 - [/r/honeypot](https://www.reddit.com/r/honeypot/)
 - [The Honeynet Project](https://www.honeynet.org/)
+- [BruteForce Lab](https://bruteforcelab.com/)
 
 # Related Lists
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
@@ -201,3 +203,7 @@ Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
 - [Would You Like Some Honey With That?](https://youtu.be/3PDnVw32PNQ)
 - [Honey In The Age Of Cyber](https://youtu.be/OCuOsOYwc8g)
 - [Wolves amongst Sheep - Defeating Targeted Attacks with Deception](https://youtu.be/bJPTeDAWiCo)
+- [Bringing PWNED To You Interesting Honeypot Trends](https://youtu.be/iGKBnn2lCvM)
+- [ICS Honeypot Deployment Strategies and Technologies](https://youtu.be/2pwhOXUGr8s)
+- [Security Onions and Honey Potz](https://youtu.be/1Jbm1zwiGTM)
+- [Cyber Counter Intelligence: An attacker-based approach](https://youtu.be/lJC3c-jMALU)
