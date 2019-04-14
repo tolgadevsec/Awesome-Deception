@@ -23,6 +23,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 - [Unveiling Patchwork – a targeted attack caught with cyber deception](https://cymmetria.com/research/patchwork-targeted-attack/)
 - [“Deception as Detection” or Give Deception a Chance?](https://blogs.gartner.com/anton-chuvakin/2016/01/08/deception-as-detection-or-give-deception-a-chance/)
 - [Deploy a fake Bitcoin wallet to save your own](https://www.theregister.co.uk/2014/06/05/deploy_a_fake_bitcoin_wallet_to_save_your_own/)
+- [To Honey or not to Honey](https://www.cyberstuff.org/articles/to-honey-or-not-to-honey)
 
 # Communities
 - [/r/honeypot](https://www.reddit.com/r/honeypot/)
