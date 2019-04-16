@@ -40,6 +40,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
   - [The Tularosa Study: An Experimental Design and Implementation to
 Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii.edu/bitstream/10125/60164/0724.pdf)
   - [How deception can change cyber security defences](https://www.sciencedirect.com/science/article/pii/S1361372319300089)
+  - [VIRTUALIZED INTELLIGENT HONEYPOT AGENT](https://www.tdcommons.org/dpubs_series/1928/)
 - 2018
   - [Cloxy: A Context-aware Deception-as-a-ServiceReverse Proxy for Web Services](https://www.researchgate.net/publication/327034328_Cloxy_A_Context-aware_Deception-as-a-Service_Reverse_Proxy_for_Web_Services)
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
@@ -98,6 +99,7 @@ deception](https://www.osti.gov/servlets/purl/1368844)
   - [An improved tarpit for network deception](https://calhoun.nps.edu/handle/10945/48595)
   - [Bandits for Cybersecurity: Adaptive
 Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/download/12655/12359)
+  - [Honeypot Architectures for IPv6 Networks](https://www.cs.uni-potsdam.de/bs/research/docs/thesis/2016/schindler.pdf)
 - 2015
   - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Toward an Insider Threat Detection Framework
@@ -127,6 +129,8 @@ Decoys
   - [A Technique for Presenting a Deceptive
 Dynamic Network Topology](https://calhoun.nps.edu/bitstream/handle/10945/32911/13Mar_Trassare_Samuel.pdf?sequence=1&isAllowed=y)
   - [Self-adaptive SSH Honeypot Model Capable of Reasoning](https://pdfs.semanticscholar.org/1d13/aaf110c9b4555c6988d85f6450ffde5b6123.pdf)
+  - [Design and Implementation of a Medium
+Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d667775300fe6e47a9b93ac25.pdf)
 - 2012
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
