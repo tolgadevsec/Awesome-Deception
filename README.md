@@ -56,6 +56,9 @@ IoT Devices](https://arxiv.org/pdf/1812.05558.pdf)
   - [Efficiency and Security of Docker Based Honeypot Systems](http://docs.mipro-proceedings.com/iss/iss_07_5091.pdf)
   - [An Application of Jeeves for Honeypot Sanitization](http://www.cs.umd.edu/sites/default/files/scholarly_papers/Webster%2C%20Ashton_1801.pdf)
   - [Cloud security using self-acting spontaneous honeypots](https://pdfs.semanticscholar.org/d309/ee0479aad76a0e74106c225e6cf0263388b6.pdf)
+  - [HONEY POT AS A SERVICE IN CLOUD ](https://acadpubl.eu/hub/2018-118-21/articles/21c/99.pdf)
+  - [A Survey of Game-Theoretic Approaches to
+Modeling Honeypots](http://ceur-ws.org/Vol-2081/paper29.pdf)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   - [Deception strategies for web
@@ -83,6 +86,9 @@ Honeypot Systems: A Survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.p
 For Login Authentications](https://www.ijrter.com/papers/volume-3/issue-5/a-virtual-honeypot-framework-for-server-configuration-using-ids-for-login-authentications.pdf)
   - [Automating the Generation of Enticing Text Content for High-Interaction
 Honeyfiles](https://core.ac.uk/download/pdf/77240199.pdf)
+  - [Towards Deployment Strategies for Deception Systems](https://www.researchgate.net/profile/Daniel_Fraunholz/publication/319865512_Towards_Deployment_Strategies_for_Deception_Systems/links/5a1c657b45851537318902db/Towards-Deployment-Strategies-for-Deception-Systems.pdf)
+  - [Outlier Detection in Secure Shell Honeypot using
+Particle Swarm Optimization Technique](http://www.ijana.in/papers/V9I3-6.pdf)
 - 2016
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
   - [Design and Implementation of a Real-Time
@@ -110,6 +116,8 @@ Deception in Cyberspace](http://deterrence.ucsd.edu/_files/Weaving%20Tangled%20W
   - [Fox in the Trap: Thwarting Masqueraders via Automated
 Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurosec_15_0.pdf)
   - [Hyhoneydv6: A hybrid Honeypot Architecture for IPv6 Networks](https://pdfs.semanticscholar.org/c64d/a666144c84ac246f060bfc2d58ea7365886f.pdf)
+  - [Deception in Dynamic Web Application Honeypots: Case of
+Glastopf](https://www.researchgate.net/profile/Ontiretse_Bagwasi/publication/281063918_Deception_in_Dynamic_Web_Application_Honeypots_Case_of_Glastopf/links/5666ac9508ae192bbf928baf/Deception-in-Dynamic-Web-Application-Honeypots-Case-of-Glastopf.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
@@ -139,12 +147,17 @@ Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
 - 2008
   - [Virtual honeynet with simulated user activity
 ](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
+  - [An Integrated Honeypot Framework for Proactive
+Detection, Characterization and Redirection of
+DDoS Attacks at ISP level ](https://pdfs.semanticscholar.org/82fa/427d32c6f8ee4730d95cc131f7434b4e138a.pdf)
 - 2007
   - [Intrusion deception in defense of computer systems](https://calhoun.nps.edu/bitstream/handle/10945/3534/07Mar_Goh.pdf?sequence=1&isAllowed=y)
 - 2006
   - [Defensive Computer-Security Deception Operations: Processes, Principles and Techniques](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/5648/etd.pdf?sequence=1&isAllowed=y)
   - [Using deception to hide things from hackers: Processes, principles, and
 techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1b6e497.pdf)
+  - [Testing and validation of a dynamic honeypot
+system](http://www.sislab.no/jantore_project.pdf)
 - 2004
   - [Honeyfiles: Deceptive files for intrusion detection](https://www.researchgate.net/publication/4147587_Honeyfiles_Deceptive_files_for_intrusion_detection)
 - 2003
