@@ -54,6 +54,7 @@ IoT Devices](https://arxiv.org/pdf/1812.05558.pdf)
   - [HoneyThing: A New Honeypot Design for CPE Devices](http://itiis.org/digital-library/manuscript/2130)
   - [Efficiency and Security of Docker Based Honeypot Systems](http://docs.mipro-proceedings.com/iss/iss_07_5091.pdf)
   - [An Application of Jeeves for Honeypot Sanitization](http://www.cs.umd.edu/sites/default/files/scholarly_papers/Webster%2C%20Ashton_1801.pdf)
+  - [Cloud security using self-acting spontaneous honeypots](https://pdfs.semanticscholar.org/d309/ee0479aad76a0e74106c225e6cf0263388b6.pdf)
 - 2017
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   - [Deception strategies for web
@@ -95,6 +96,8 @@ Telephony Threats with Honeycards](http://www.madlab.it/papers/mobipot.pdf)
   - [Gathering threat intelligence through computer network
 deception](https://www.osti.gov/servlets/purl/1368844)
   - [An improved tarpit for network deception](https://calhoun.nps.edu/handle/10945/48595)
+  - [Bandits for Cybersecurity: Adaptive
+Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/download/12655/12359)
 - 2015
   - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Toward an Insider Threat Detection Framework
@@ -104,11 +107,14 @@ Deception in Cyberspace](http://deterrence.ucsd.edu/_files/Weaving%20Tangled%20W
   - [Denial and Deception in Cyber Defense](https://www.researchgate.net/publication/275270540_Denial_and_Deception_in_Cyber_Defense)
   - [Fox in the Trap: Thwarting Masqueraders via Automated
 Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurosec_15_0.pdf)
+  - [Hyhoneydv6: A hybrid Honeypot Architecture for IPv6 Networks](https://pdfs.semanticscholar.org/c64d/a666144c84ac246f060bfc2d58ea7365886f.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
   - [Changing the game: The art of deceiving sophisticated
 attackers](https://ccdcoe.org/cycon/2014/proceedings/d2r2s6_serrano.pdf)
+  - [Implementing a CBR Recommender for Honeypot
+Configuration using jCOLIBRI](https://www.researchgate.net/profile/Wira_Zakaria/publication/262689112_Implementing_a_CBR_Recommender_for_Honeypot_Configuration_using_jCOLIBRI/links/0f3175387eba370d9f000000.pdf)
 - 2013
   - [Detecting Targeted Attacks by Multilayer
 Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439_224.pdf)
@@ -120,9 +126,12 @@ Decoys
   - [Honeywords: Making Password-Cracking Detectable](https://people.csail.mit.edu/rivest/pubs/JR13.pdf)
   - [A Technique for Presenting a Deceptive
 Dynamic Network Topology](https://calhoun.nps.edu/bitstream/handle/10945/32911/13Mar_Trassare_Samuel.pdf?sequence=1&isAllowed=y)
+  - [Self-adaptive SSH Honeypot Model Capable of Reasoning](https://pdfs.semanticscholar.org/1d13/aaf110c9b4555c6988d85f6450ffde5b6123.pdf)
 - 2012
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
+- 2010
+  - [AHA - Adaptive Honeypot Alternative](http://eah.es/Wagener-AHA-Adaptive-Honeypot-Alternative-slides.pdf)
 - 2008
   - [Virtual honeynet with simulated user activity
 ](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
