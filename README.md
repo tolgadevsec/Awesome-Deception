@@ -34,6 +34,10 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 
 # Research
+### Groups
+- [Purdue University - Deception Group](https://www.cerias.purdue.edu/site/deception/)
+
+### Paper and Theses
 - 2019
   - [From Cyber-Security Deception To Manipulation and Gratification Through Gamification](https://www.researchgate.net/publication/331949692_From_Cyber-Security_Deception_To_Manipulation_and_Gratification_Through_Gamification)
   - [Honeypot boulevard: understanding malicious activity via decoy accounts](http://discovery.ucl.ac.uk/10066774/)
