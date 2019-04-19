@@ -10,6 +10,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Gene Spafford: Challenging the Maxim, “No Security Through Obscurity”](https://threatvector.cylance.com/en_us/home/gene-spafford-no-security-through-obscurity.html)
 - [Introduction to HoneyPy & HoneyDB](https://labs.signalsciences.com/honeypots-introduction-honeypy-honeydb)
 - [Getting Started With HoneyPy — Part 1](https://labs.signalsciences.com/honeypy-part-1-getting-started)
 - [Getting Started With HoneyPy — Part 2](https://labs.signalsciences.com/getting-started-with-honeypy-part-2)
