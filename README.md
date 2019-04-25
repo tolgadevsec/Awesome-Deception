@@ -38,7 +38,11 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 ### Groups
 - [Purdue University - Deception Group](https://www.cerias.purdue.edu/site/deception/)
 
-### Paper and Theses
+### Lecture Slides
+- [University of New Haven - Deception in Defense of
+Information Systems](http://all.net/courses.all.net/Deception/)
+
+### Papers and Theses
 - 2019
   - [Counting Outdated Honeypots: Legal and Useful](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-walden-counting-outdated-honeypots-wtmc-19.pdf)
   - [Game Theory for Adaptive Defensive Cyber Deception](https://www.researchgate.net/profile/Kimberly_Ferguson-Walter2/publication/331357854_Game_Theory_for_Adaptive_Defensive_Cyber_Deception/links/5c75b16e458515831f7297d2/Game-Theory-for-Adaptive-Defensive-Cyber-Deception.pdf)
