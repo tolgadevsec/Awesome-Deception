@@ -158,6 +158,7 @@ Dynamic Network Topology](https://calhoun.nps.edu/bitstream/handle/10945/32911/1
   - [Self-adaptive SSH Honeypot Model Capable of Reasoning](https://pdfs.semanticscholar.org/1d13/aaf110c9b4555c6988d85f6450ffde5b6123.pdf)
   - [Design and Implementation of a Medium
 Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d667775300fe6e47a9b93ac25.pdf)
+  - [A Framework for Intrusion Deception on Web Servers](https://worldcomp-proceedings.com/proc/p2013/ICM2762.pdf)
 - 2012
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
