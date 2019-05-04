@@ -143,6 +143,7 @@ Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh06
 attackers](https://ccdcoe.org/cycon/2014/proceedings/d2r2s6_serrano.pdf)
   - [Implementing a CBR Recommender for Honeypot
 Configuration using jCOLIBRI](https://www.researchgate.net/profile/Wira_Zakaria/publication/262689112_Implementing_a_CBR_Recommender_for_Honeypot_Configuration_using_jCOLIBRI/links/0f3175387eba370d9f000000.pdf)
+  - [INTERCEPT: High-interaction Server-type Honeypot basedon Live Migration](http://www.necoma-project.eu/m/filer_public/8c/30/8c3011e1-a8a8-4ec6-b055-a12a7f621043/miyamoto-emu2014.pdf)
 - 2013
   - [Detecting Targeted Attacks by Multilayer
 Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439_224.pdf)
