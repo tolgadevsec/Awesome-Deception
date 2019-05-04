@@ -192,7 +192,7 @@ Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
   - [Software Decoys: Intrusion Detection and Countermeasures](https://www.researchgate.net/publication/242426017_Software_Decoys_Intrusion_Detection_and_Countermeasures)
 
 # Podcasts
-- [Active Deception as a Methodology for Cybersecurity w/ Lawrence Pingree from Gartner](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
+- [Active Deception as a Methodology for Cybersecurity](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
 
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
