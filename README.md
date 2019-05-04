@@ -11,6 +11,8 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Deception as a {Free} Post-Breach Detection Tool](https://www.tripwire.com/state-of-security/security-data-protection/deception-free-post-breach-detection-tool/)
+- [DevSecOps: Deception in Depth](https://devops.com/devsecops-deception-in-depth/)
 - [How You Can Set up Honeytokens Using Canarytokens to Detect Intrusions](https://zeltser.com/honeytokens-canarytokens-setup/)
 - [Gene Spafford: Challenging the Maxim, “No Security Through Obscurity”](https://threatvector.cylance.com/en_us/home/gene-spafford-no-security-through-obscurity.html)
 - [Introduction to HoneyPy & HoneyDB](https://labs.signalsciences.com/honeypots-introduction-honeypy-honeydb)
