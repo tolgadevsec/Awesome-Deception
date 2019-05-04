@@ -7,6 +7,7 @@ An awesome list of deception technology resources
 - [Communities](#communities)
 - [Related Lists](#related-lists)
 - [Research](#research)
+- [Podcasts](#podcasts)
 - [Videos](#videos)
 
 # Articles
@@ -189,7 +190,10 @@ Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
   - [Software Decoys: Intrusion Detection and Countermeasures](https://www.researchgate.net/publication/242426017_Software_Decoys_Intrusion_Detection_and_Countermeasures)
-  
+
+# Podcasts
+- [Active Deception as a Methodology for Cybersecurity w/ Lawrence Pingree from Gartner](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
+
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
 - [Applied Deception Beyond the Honeypot: Moving Past 101](https://www.youtube.com/watch?v=ctrHLkpzoMk)
