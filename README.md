@@ -127,6 +127,7 @@ deception](https://www.osti.gov/servlets/purl/1368844)
 Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/download/12655/12359)
   - [Honeypot Architectures for IPv6 Networks](https://www.cs.uni-potsdam.de/bs/research/docs/thesis/2016/schindler.pdf)
   - [Deceptive Cyber Defense for IIoT](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=174833&item_no=1&attribute_id=1&file_no=1)
+  - [A Survey on Honeypot Software and Data Analysis](https://arxiv.org/pdf/1608.06249.pdf)
 - 2015
   - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Toward an Insider Threat Detection Framework
