@@ -11,6 +11,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Detecting Malice with ModSecurity: HoneyTraps](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/detecting-malice-with-modsecurity-honeytraps/)
 - [Deception as a {Free} Post-Breach Detection Tool](https://www.tripwire.com/state-of-security/security-data-protection/deception-free-post-breach-detection-tool/)
 - [DevSecOps: Deception in Depth](https://devops.com/devsecops-deception-in-depth/)
 - [How You Can Set up Honeytokens Using Canarytokens to Detect Intrusions](https://zeltser.com/honeytokens-canarytokens-setup/)
@@ -270,3 +271,4 @@ Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
 - [Tangled Web: Defense in Deception](https://youtu.be/Cf_XXmRLnRQ)
 - [BHIS Webcast: Tracking attackers. Why attribution matters and how to do it](https://youtu.be/ICwmK0OvHNc)
 - [Active Cyber Network Defense with Denial and Deception](https://youtu.be/9g_HLNXiLto)
+- [Traps of Gold](https://youtu.be/Qn6XRuNoixM)
