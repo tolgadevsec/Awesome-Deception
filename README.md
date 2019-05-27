@@ -11,6 +11,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [SSH Honey Keys](https://kulinacs.com/ssh-honey-keys/)
 - [Detecting Malice with ModSecurity: HoneyTraps](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/detecting-malice-with-modsecurity-honeytraps/)
 - [Deception as a {Free} Post-Breach Detection Tool](https://www.tripwire.com/state-of-security/security-data-protection/deception-free-post-breach-detection-tool/)
 - [DevSecOps: Deception in Depth](https://devops.com/devsecops-deception-in-depth/)
