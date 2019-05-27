@@ -11,6 +11,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Building a real-world web honeypot for CVE-2019–6340 (RCE in Drupal core)](https://medium.com/@SecurityBender/building-a-real-world-web-honeypot-for-cve-2019-6340-rce-in-drupal-core-f4240f989c3f)
 - [SSH Honey Keys](https://kulinacs.com/ssh-honey-keys/)
 - [Detecting Malice with ModSecurity: HoneyTraps](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/detecting-malice-with-modsecurity-honeytraps/)
 - [Deception as a {Free} Post-Breach Detection Tool](https://www.tripwire.com/state-of-security/security-data-protection/deception-free-post-breach-detection-tool/)
