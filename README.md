@@ -51,6 +51,8 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2019
+  - [Analysis of threats on a VoIP Based PBX Honeypot](https://eprints.soton.ac.uk/429318/1/Analysis_of_threats_on_a_VoIP_Based_PBX_Honeypot_From_Proceedings.pdf)
+  - [Prevalence of IoT Protocols in Telescope and Honeypot Measurements](https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/3/2)
   - [Counting Outdated Honeypots: Legal and Useful](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-walden-counting-outdated-honeypots-wtmc-19.pdf)
   - [Game Theory for Adaptive Defensive Cyber Deception](https://www.researchgate.net/profile/Kimberly_Ferguson-Walter2/publication/331357854_Game_Theory_for_Adaptive_Defensive_Cyber_Deception/links/5c75b16e458515831f7297d2/Game-Theory-for-Adaptive-Defensive-Cyber-Deception.pdf)
   - [DorkPot: A Honeypot-based Analysis of GoogleDorks](https://www.ei.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2019/02/26/DorkPot-MADWeb2019.pdf)
