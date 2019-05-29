@@ -114,6 +114,9 @@ Honeyfiles](https://core.ac.uk/download/pdf/77240199.pdf)
   - [Towards Deployment Strategies for Deception Systems](https://www.researchgate.net/profile/Daniel_Fraunholz/publication/319865512_Towards_Deployment_Strategies_for_Deception_Systems/links/5a1c657b45851537318902db/Towards-Deployment-Strategies-for-Deception-Systems.pdf)
   - [Outlier Detection in Secure Shell Honeypot using
 Particle Swarm Optimization Technique](http://www.ijana.in/papers/V9I3-6.pdf)
+  - [Evaluation of Low-Interaction
+Honeypots on the University
+Network](http://lnu.diva-portal.org/smash/get/diva2:1121560/FULLTEXT01.pdf)
 - 2016
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
   - [Design and Implementation of a Real-Time
@@ -145,6 +148,7 @@ Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurose
   - [Hyhoneydv6: A hybrid Honeypot Architecture for IPv6 Networks](https://pdfs.semanticscholar.org/c64d/a666144c84ac246f060bfc2d58ea7365886f.pdf)
   - [Deception in Dynamic Web Application Honeypots: Case of
 Glastopf](https://www.researchgate.net/profile/Ontiretse_Bagwasi/publication/281063918_Deception_in_Dynamic_Web_Application_Honeypots_Case_of_Glastopf/links/5666ac9508ae192bbf928baf/Deception-in-Dynamic-Web-Application-Honeypots-Case-of-Glastopf.pdf)
+  - [IoTPOT: Analysing the Rise of IoT Compromises](https://christian-rossow.de/publications/iotpot-woot2015.pdf)
 - 2014
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
@@ -153,6 +157,8 @@ attackers](https://ccdcoe.org/cycon/2014/proceedings/d2r2s6_serrano.pdf)
   - [Implementing a CBR Recommender for Honeypot
 Configuration using jCOLIBRI](https://www.researchgate.net/profile/Wira_Zakaria/publication/262689112_Implementing_a_CBR_Recommender_for_Honeypot_Configuration_using_jCOLIBRI/links/0f3175387eba370d9f000000.pdf)
   - [INTERCEPT: High-interaction Server-type Honeypot basedon Live Migration](http://www.necoma-project.eu/m/filer_public/8c/30/8c3011e1-a8a8-4ec6-b055-a12a7f621043/miyamoto-emu2014.pdf)
+  - [Building a Honeypot to Research
+Cyber-Attack Techniques](https://securehoney.net/dissertation.pdf)
 - 2013
   - [Detecting Targeted Attacks by Multilayer
 Deception](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_2245-1439_224.pdf)
@@ -171,6 +177,8 @@ Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d66777530
 - 2012
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
+  - [A Survey: Recent Advances and Future Trends in
+Honeypot Research](http://www.mecs-press.org/ijcnis/ijcnis-v4-n10/IJCNIS-V4-N10-7.pdf)
 - 2010
   - [AHA - Adaptive Honeypot Alternative](http://eah.es/Wagener-AHA-Adaptive-Honeypot-Alternative-slides.pdf)
   - [Honeyware: a web-based low interaction client honeypot](https://www.researchgate.net/publication/220719975_Honeyware_A_Web-Based_Low_Interaction_Client_Honeypot)
@@ -190,12 +198,17 @@ DDoS Attacks at ISP level ](https://pdfs.semanticscholar.org/82fa/427d32c6f8ee47
 techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1b6e497.pdf)
   - [Testing and validation of a dynamic honeypot
 system](http://www.sislab.no/jantore_project.pdf)
+  - [Advanced Honeypot-based Intrusion
+Detection](https://www.ei.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012/08/07/Honeypot-ids_USENIX06.pdf)
+  - [Honeypots: How do you know when you are inside one?](https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1027&context=adf)
 - 2004
   - [Honeyfiles: Deceptive files for intrusion detection](https://www.researchgate.net/publication/4147587_Honeyfiles_Deceptive_files_for_intrusion_detection)
 - 2003
   - [Honeytokens: The Other Honeypot](https://www.symantec.com/connect/articles/honeytokens-other-honeypot)
   - [Honeypots: Catching the
 Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
+  - [Deception Techniques
+Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
 - 2002
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
