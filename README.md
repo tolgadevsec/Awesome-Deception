@@ -51,6 +51,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2019
+  - [A Survey On Honeypots, Honeynets And Their Applications On Smart Grid](https://www.spear2020.eu/cmsMedia/Uploads/UserFiles/Publications/ASurveyOnHoneypotsHoneynetsAndTheirApplicationsOnSmartGrid.pdf)
   - [Analysis of threats on a VoIP Based PBX Honeypot](https://eprints.soton.ac.uk/429318/1/Analysis_of_threats_on_a_VoIP_Based_PBX_Honeypot_From_Proceedings.pdf)
   - [Prevalence of IoT Protocols in Telescope and Honeypot Measurements](https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/3/2)
   - [Counting Outdated Honeypots: Legal and Useful](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-walden-counting-outdated-honeypots-wtmc-19.pdf)
@@ -174,6 +175,8 @@ Dynamic Network Topology](https://calhoun.nps.edu/bitstream/handle/10945/32911/1
   - [Design and Implementation of a Medium
 Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d667775300fe6e47a9b93ac25.pdf)
   - [A Framework for Intrusion Deception on Web Servers](https://worldcomp-proceedings.com/proc/p2013/ICM2762.pdf)
+  - [Patterns and Patter - An Investigation into SSH
+Activity Using Kippo Honeypots](https://core.ac.uk/download/pdf/41530408.pdf)
 - 2012
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
