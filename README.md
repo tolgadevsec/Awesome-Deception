@@ -11,6 +11,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Build an easy RDP Honeypot with Raspberry PI 3 and observe the infamous attacks as (BlueKeep) CVE-2019–0708](https://medium.com/@alt3kx/build-an-easy-rdp-honeypot-with-raspberry-pi-3-and-observe-the-infamous-attacks-as-bluekeep-29a167f78cc1)
 - [Building a real-world web honeypot for CVE-2019–6340 (RCE in Drupal core)](https://medium.com/@SecurityBender/building-a-real-world-web-honeypot-for-cve-2019-6340-rce-in-drupal-core-f4240f989c3f)
 - [SSH Honey Keys](https://kulinacs.com/ssh-honey-keys/)
 - [Detecting Malice with ModSecurity: HoneyTraps](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/detecting-malice-with-modsecurity-honeytraps/)
