@@ -11,6 +11,8 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Creating and Deploying Honeypots in Kubernetes](https://www.apriorit.com/dev-blog/619-web-cybersecurity-honeypots-in-kubernetes)
+- [Honeypot deployment on Linux - OpenCanary](https://itrandomstuff.blogspot.com/2019/05/Honeypot-deployment-Linux-OpenCanary.html)
 - [Setting HoneyTraps with ModSecurity: Adding Fake robots.txt Disallow Entries](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/setting-honeytraps-with-modsecurity-adding-fake-robotstxt-disallow-entries/)
 - [Setting HoneyTraps with ModSecurity: Adding Fake HTML Comments](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/setting-honeytraps-with-modsecurity-adding-fake-html-comments/)
 - [Detecting Malice with ModSecurity: HoneyTraps](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/detecting-malice-with-modsecurity-honeytraps/)
