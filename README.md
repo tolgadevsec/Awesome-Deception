@@ -55,6 +55,11 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2019
+  - [General-Sum Cyber Deception Games under Partial AttackerValuation Information](https://www.cais.usc.edu/wp-content/uploads/2019/04/AAMAS2019.pdf)
+  - [HackIT: A Human-in-the-loop Simulation Tool for Realistic Cyber Deception Experiments](https://www.researchgate.net/profile/Varun_Dutt/publication/331097800_HackIT_A_Human-in-the-Loop_Simulation_Tool_for_Realistic_Cyber_Deception_Experiments/links/5c78cb4ca6fdcc4715a3fd5c/HackIT-A-Human-in-the-Loop-Simulation-Tool-for-Realistic-Cyber-Deception-Experiments.pdf)
+  - [Deception-As-Defense Framework for Cyber-Physical Systems](https://arxiv.org/pdf/1902.01364.pdf)
+  - [Learning and Planning in Feature Deception Games](https://arxiv.org/pdf/1905.04833.pdf)
+  - [HoneyDOC: An Efficient Honeypot Architecture Enabling All-Round Design](https://kar.kent.ac.uk/72626/1/po08311464.pdf)
   - [Using Camouflaged Cyber Simulationsas a Model to Ensure Validity in Cybersecurity Experimentation](https://arxiv.org/pdf/1905.07059.pdf)
   - [A Survey On Honeypots, Honeynets And Their Applications On Smart Grid](https://www.spear2020.eu/cmsMedia/Uploads/UserFiles/Publications/ASurveyOnHoneypotsHoneynetsAndTheirApplicationsOnSmartGrid.pdf)
   - [Analysis of threats on a VoIP Based PBX Honeypot](https://eprints.soton.ac.uk/429318/1/Analysis_of_threats_on_a_VoIP_Based_PBX_Honeypot_From_Proceedings.pdf)
