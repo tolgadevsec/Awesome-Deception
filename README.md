@@ -55,6 +55,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2019
+  - [Using Camouflaged Cyber Simulationsas a Model to Ensure Validity in Cybersecurity Experimentation](https://arxiv.org/pdf/1905.07059.pdf)
   - [A Survey On Honeypots, Honeynets And Their Applications On Smart Grid](https://www.spear2020.eu/cmsMedia/Uploads/UserFiles/Publications/ASurveyOnHoneypotsHoneynetsAndTheirApplicationsOnSmartGrid.pdf)
   - [Analysis of threats on a VoIP Based PBX Honeypot](https://eprints.soton.ac.uk/429318/1/Analysis_of_threats_on_a_VoIP_Based_PBX_Honeypot_From_Proceedings.pdf)
   - [Prevalence of IoT Protocols in Telescope and Honeypot Measurements](https://www.riverpublishers.com/journal_read_html_article.php?j=JCSM/8/3/2)
