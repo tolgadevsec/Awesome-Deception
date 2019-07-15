@@ -11,6 +11,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/diary/Detecting+Mimikatz+Use+On+Your+Network/19311)
 - [Implementing Honeytokens, Honeynets, and Honeytraps With Zero Budget](https://danielmiessler.com/blog/implementing-inexpensive-honeytrap-techniques/)
 - [Creating and Deploying Honeypots in Kubernetes](https://www.apriorit.com/dev-blog/619-web-cybersecurity-honeypots-in-kubernetes)
 - [Honeypot deployment on Linux - OpenCanary](https://itrandomstuff.blogspot.com/2019/05/Honeypot-deployment-Linux-OpenCanary.html)
