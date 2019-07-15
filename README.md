@@ -150,6 +150,9 @@ Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW
   - [Deceptive Cyber Defense for IIoT](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=174833&item_no=1&attribute_id=1&file_no=1)
   - [A Survey on Honeypot Software and Data Analysis](https://arxiv.org/pdf/1608.06249.pdf)
 - 2015
+  - [Deception by Design: Evidence-Based
+Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
+  - [Experiences with Honey-Patching in Active Cyber Security Education](https://www.usenix.org/system/files/conference/cset15/cset15-araujo.pdf)
   - [Using Deception to Enhance Security: A Taxonomy, Model, and Novel Uses](https://www.meshekah.com/publication/reports/phd_thesis_using-deception-to-enhance-security.pdf)
   - [Toward an Insider Threat Detection Framework
 Using Honey Permissions](http://people.tamu.edu/~kaghazgaran/papers/JISIS-15.pdf)
@@ -190,6 +193,8 @@ Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d66777530
   - [Patterns and Patter - An Investigation into SSH
 Activity Using Kippo Honeypots](https://core.ac.uk/download/pdf/41530408.pdf)
 - 2012
+  - [A Deception Framework for Survivability Against Next Generation
+Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
   - [A Security Mechanism for Web Servers Based on
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
   - [A Survey: Recent Advances and Future Trends in
