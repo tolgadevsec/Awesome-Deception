@@ -98,6 +98,8 @@ IoT Devices](https://arxiv.org/pdf/1812.05558.pdf)
 Modeling Honeypots](http://ceur-ws.org/Vol-2081/paper29.pdf)
   - [Web Deception towards Moving Target Defense](https://www.researchgate.net/publication/328542218_Web_Deception_towards_Moving_Target_Defense)
 - 2017
+  - [A New Approach to Detecting Ransomware
+with Deception](https://www.ieee-security.org/TC/SP2017/poster-abstracts/IEEE-SP17_Posters_paper_26.pdf)
   - [Active defence through deceptive IPS](https://www.semanticscholar.org/paper/Active-defence-through-deceptive-IPS-Machas/f1130c28890ddcf147d1ed3476ebb06b4ea2b494)
   - [Deception strategies for web
 application security: application-layer
