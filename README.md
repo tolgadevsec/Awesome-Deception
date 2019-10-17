@@ -81,6 +81,7 @@ Quantify the Effectiveness of Cyber Deception](https://scholarspace.manoa.hawaii
   - [VIRTUALIZED INTELLIGENT HONEYPOT AGENT](https://www.tdcommons.org/dpubs_series/1928/)
   - [Game Theory for Cyber Deception: A Tutorial](https://www.researchgate.net/publication/331543976_Game_Theory_for_Cyber_Deception_A_Tutorial)
 - 2018
+  - [Towards an Automatic Generation of Low-Interaction Web Application Honeypots](https://www.tu-braunschweig.de/Medien-DB/ias/pubs/2018-ares.pdf) 
   - [Cloxy: A Context-aware Deception-as-a-ServiceReverse Proxy for Web Services](https://www.researchgate.net/publication/327034328_Cloxy_A_Context-aware_Deception-as-a-Service_Reverse_Proxy_for_Web_Services)
   - [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/citation.cfm?doid=3236632.3214305)
   - [Demystifying Deception Technology:A Survey](https://arxiv.org/abs/1804.06196)
