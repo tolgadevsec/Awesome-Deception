@@ -11,6 +11,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [High Interaction Honeypots with Sysdig and Falco](https://labs.f-secure.com/archive/high-interaction-honeypots-with-sysdig-and-falco/)
 - [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/diary/Detecting+Mimikatz+Use+On+Your+Network/19311)
 - [Implementing Honeytokens, Honeynets, and Honeytraps With Zero Budget](https://danielmiessler.com/blog/implementing-inexpensive-honeytrap-techniques/)
 - [Creating and Deploying Honeypots in Kubernetes](https://www.apriorit.com/dev-blog/619-web-cybersecurity-honeypots-in-kubernetes)
