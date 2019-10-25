@@ -222,6 +222,7 @@ Honeypot Research](http://www.mecs-press.org/ijcnis/ijcnis-v4-n10/IJCNIS-V4-N10-
   - [Using Honeypots to Analyse Anomalous Internet Activities](https://eprints.qut.edu.au/31833/1/Saleh_Almotairi_Thesis.pdf)
   - [Deception used for Cyber Defense of
 Control Systems](https://www.researchgate.net/profile/Wayne_Boyer/publication/224517314_Deception_used_for_cyber_defense_of_control_systems/links/02e7e53bbf9430ebba000000/Deception-used-for-cyber-defense-of-control-systems.pdf)
+  - [ADVANCED HONEYPOT ARCHITECTURE FOR NETWORK THREATS QUANTIFICATION](https://drum.lib.umd.edu/bitstream/handle/1903/9204/Berthier_umd_0117E_10310.pdf?sequence=1&isAllowed=y)
 - 2008
   - [Virtual honeynet with simulated user activity
 ](https://dspace.cuni.cz/bitstream/handle/20.500.11956/18926/DPTX_0_0_11320_0_211885_0_41221.pdf)
