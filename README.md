@@ -11,6 +11,8 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Bypassing LLMNR/NBT-NS honeypot](https://blog.redteam.pl/2019/10/bypassing-llmnr-nbns-honeypot.html)
+- [RDP Honeypotting](https://www.wilbursecurity.com/2019/10/rdp-honeypotting/)
 - [High Interaction Honeypots with Sysdig and Falco](https://labs.f-secure.com/archive/high-interaction-honeypots-with-sysdig-and-falco/)
 - [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/diary/Detecting+Mimikatz+Use+On+Your+Network/19311)
 - [Implementing Honeytokens, Honeynets, and Honeytraps With Zero Budget](https://danielmiessler.com/blog/implementing-inexpensive-honeytrap-techniques/)
