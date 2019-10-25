@@ -240,6 +240,7 @@ system](http://www.sislab.no/jantore_project.pdf)
   - [Advanced Honeypot-based Intrusion
 Detection](https://www.ei.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012/08/07/Honeypot-ids_USENIX06.pdf)
   - [Honeypots: How do you know when you are inside one?](https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1027&context=adf)
+  - [Lessons learned from the deployment of a high-interaction honeypot](https://arxiv.org/ftp/arxiv/papers/0704/0704.0858.pdf)
 - 2004
   - [Honeyfiles: Deceptive files for intrusion detection](https://www.researchgate.net/publication/4147587_Honeyfiles_Deceptive_files_for_intrusion_detection)
 - 2003
