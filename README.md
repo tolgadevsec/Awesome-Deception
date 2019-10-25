@@ -251,6 +251,7 @@ Detection](https://www.ei.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012
   - [Lessons learned from the deployment of a high-interaction honeypot](https://arxiv.org/ftp/arxiv/papers/0704/0704.0858.pdf)
 - 2004
   - [Honeyfiles: Deceptive files for intrusion detection](https://www.researchgate.net/publication/4147587_Honeyfiles_Deceptive_files_for_intrusion_detection)
+  - [Honeynets: An Educational Resource for IT Security](http://www.cs.potsdam.edu/faculty/laddbc/Teaching/Ethics/StudentPapers/2004Jones-HoneynetsAnEducationalResourceForITSecurity.pdf)
 - 2003
   - [Honeytokens: The Other Honeypot](https://www.symantec.com/connect/articles/honeytokens-other-honeypot)
   - [Honeypots: Catching the
