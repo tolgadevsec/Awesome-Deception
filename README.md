@@ -146,6 +146,7 @@ Particle Swarm Optimization Technique](http://www.ijana.in/papers/V9I3-6.pdf)
 Honeypots on the University
 Network](http://lnu.diva-portal.org/smash/get/diva2:1121560/FULLTEXT01.pdf)
   - [Poster: HoneyBot - A Honeypot for Robotic Systems](https://www.ieee-security.org/TC/SP2017/poster-abstracts/IEEE-SP17_Posters_paper_3.pdf)
+  - [A security approach based on honeypots: Protecting Online Social network from malicious profiles](https://www.astesj.com/publications/ASTESJ_020326.pdf)
 - 2016
   - [SSH Honeypot: Building, Deploying and Analysis](https://www.researchgate.net/publication/303020547_SSH_Honeypot_Building_Deploying_and_Analysis)
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
