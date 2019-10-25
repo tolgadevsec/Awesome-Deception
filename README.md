@@ -145,6 +145,7 @@ Particle Swarm Optimization Technique](http://www.ijana.in/papers/V9I3-6.pdf)
   - [Evaluation of Low-Interaction
 Honeypots on the University
 Network](http://lnu.diva-portal.org/smash/get/diva2:1121560/FULLTEXT01.pdf)
+  - [Poster: HoneyBot - A Honeypot for Robotic Systems](https://www.ieee-security.org/TC/SP2017/poster-abstracts/IEEE-SP17_Posters_paper_3.pdf)
 - 2016
   - [SSH Honeypot: Building, Deploying and Analysis](https://www.researchgate.net/publication/303020547_SSH_Honeypot_Building_Deploying_and_Analysis)
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
@@ -168,6 +169,7 @@ Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW
   - [Goal-driven deception tactics design](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/644/original/issre2016-goal-driven-deception-pre-cameraready.pdf?1469542781)
   - [SCADA Honeypots – An In-depth Analysis of Conpot](https://eller.arizona.edu/sites/default/files/arthur_jicha_masters_paper.pdf)
   - [Graph-based Forensic Analysis of Web Honeypot](https://www.itl.waw.pl/czasopisma/JTIT/2016/2/60.pdf)
+  - [Poster: Re-thinking the Honeypot for Cyber-Physical Systems](https://www.ieee-security.org/TC/SP2016/poster-abstracts/20-poster_abstract.pdf)
 - 2015
   - [Deception by Design: Evidence-Based
 Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
