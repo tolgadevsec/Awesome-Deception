@@ -205,8 +205,6 @@ Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d66777530
   - [A Framework for Intrusion Deception on Web Servers](https://worldcomp-proceedings.com/proc/p2013/ICM2762.pdf)
   - [Patterns and Patter - An Investigation into SSH
 Activity Using Kippo Honeypots](https://core.ac.uk/download/pdf/41530408.pdf)
-  - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
-  - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
 - 2012
   - [A Deception Framework for Survivability Against Next Generation
 Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
@@ -214,6 +212,9 @@ Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
   - [A Survey: Recent Advances and Future Trends in
 Honeypot Research](http://www.mecs-press.org/ijcnis/ijcnis-v4-n10/IJCNIS-V4-N10-7.pdf)
+- 2011
+  - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
+  - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
 - 2010
   - [AHA - Adaptive Honeypot Alternative](http://eah.es/Wagener-AHA-Adaptive-Honeypot-Alternative-slides.pdf)
   - [Honeyware: a web-based low interaction client honeypot](https://www.researchgate.net/publication/220719975_Honeyware_A_Web-Based_Low_Interaction_Client_Honeypot)
