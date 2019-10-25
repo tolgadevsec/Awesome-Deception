@@ -201,6 +201,7 @@ Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d66777530
   - [A Framework for Intrusion Deception on Web Servers](https://worldcomp-proceedings.com/proc/p2013/ICM2762.pdf)
   - [Patterns and Patter - An Investigation into SSH
 Activity Using Kippo Honeypots](https://core.ac.uk/download/pdf/41530408.pdf)
+  - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
 - 2012
   - [A Deception Framework for Survivability Against Next Generation
 Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
