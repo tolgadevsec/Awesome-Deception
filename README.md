@@ -63,6 +63,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2019
+  - [The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts](https://www.usenix.org/system/files/sec19-torres.pdf)
   - [General-Sum Cyber Deception Games under Partial AttackerValuation Information](https://www.cais.usc.edu/wp-content/uploads/2019/04/AAMAS2019.pdf)
   - [HackIT: A Human-in-the-loop Simulation Tool for Realistic Cyber Deception Experiments](https://www.researchgate.net/profile/Varun_Dutt/publication/331097800_HackIT_A_Human-in-the-Loop_Simulation_Tool_for_Realistic_Cyber_Deception_Experiments/links/5c78cb4ca6fdcc4715a3fd5c/HackIT-A-Human-in-the-Loop-Simulation-Tool-for-Realistic-Cyber-Deception-Experiments.pdf)
   - [Deception-As-Defense Framework for Cyber-Physical Systems](https://arxiv.org/pdf/1902.01364.pdf)
