@@ -222,6 +222,7 @@ Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
 Deception](http://worldcomp-proceedings.com/proc/p2012/ICM2321.pdf)
   - [A Survey: Recent Advances and Future Trends in
 Honeypot Research](http://www.mecs-press.org/ijcnis/ijcnis-v4-n10/IJCNIS-V4-N10-7.pdf)
+  - [CAMPUS SECURITY USING HONEYPOT](http://psrcentre.org/images/extraimages/15.%201112105.pdf)
 - 2011
   - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
   - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
