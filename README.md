@@ -236,6 +236,7 @@ Detection, Characterization and Redirection of
 DDoS Attacks at ISP level ](https://pdfs.semanticscholar.org/82fa/427d32c6f8ee4730d95cc131f7434b4e138a.pdf)
 - 2007
   - [Intrusion deception in defense of computer systems](https://calhoun.nps.edu/bitstream/handle/10945/3534/07Mar_Goh.pdf?sequence=1&isAllowed=y)
+  - [Collecting Autonomous Spreading Malware Using High-Interaction Honeypots](http://www.cs.ucr.edu/~csong/icics07.pdf)
 - 2006
   - [Defensive Computer-Security Deception Operations: Processes, Principles and Techniques](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/5648/etd.pdf?sequence=1&isAllowed=y)
   - [Using deception to hide things from hackers: Processes, principles, and
