@@ -139,6 +139,7 @@ Particle Swarm Optimization Technique](http://www.ijana.in/papers/V9I3-6.pdf)
 Honeypots on the University
 Network](http://lnu.diva-portal.org/smash/get/diva2:1121560/FULLTEXT01.pdf)
 - 2016
+  - [SSH Honeypot: Building, Deploying and Analysis](https://www.researchgate.net/publication/303020547_SSH_Honeypot_Building_Deploying_and_Analysis)
   - [Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)
   - [Design and Implementation of a Real-Time
 Honeypot System for the Detection and
