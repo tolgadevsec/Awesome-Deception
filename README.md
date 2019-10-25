@@ -11,6 +11,8 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [A Practical Guide to Honeypots](https://www.cse.wustl.edu/~jain/cse571-09/ftp/honey/)
+- [Learn how to deploy a Honeypot and visualise its data step by step](https://medium.com/@galolbardes/learn-how-to-deploy-a-honeypot-and-visualise-its-data-step-by-step-ea3cd3f25822)
 - [Bypassing LLMNR/NBT-NS honeypot](https://blog.redteam.pl/2019/10/bypassing-llmnr-nbns-honeypot.html)
 - [RDP Honeypotting](https://www.wilbursecurity.com/2019/10/rdp-honeypotting/)
 - [High Interaction Honeypots with Sysdig and Falco](https://labs.f-secure.com/archive/high-interaction-honeypots-with-sysdig-and-falco/)
@@ -204,6 +206,7 @@ Interaction Honeypot](https://pdfs.semanticscholar.org/07c9/6df6df591b8d66777530
   - [Patterns and Patter - An Investigation into SSH
 Activity Using Kippo Honeypots](https://core.ac.uk/download/pdf/41530408.pdf)
   - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
+  - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
 - 2012
   - [A Deception Framework for Survivability Against Next Generation
 Cyber Attacks](http://worldcomp-proceedings.com/proc/p2012/SAM9787.pdf)
