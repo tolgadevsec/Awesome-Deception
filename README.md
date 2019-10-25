@@ -230,6 +230,7 @@ Honeypot Research](http://www.mecs-press.org/ijcnis/ijcnis-v4-n10/IJCNIS-V4-N10-
   - [DarkNOC: Dashboard for Honeypot Management](https://www.usenix.org/legacy/event/lisa11/tech/full_papers/Sobesto.pdf)
   - [Heat-seeking honeypots: design and experience](https://homes.cs.washington.edu/~arvind/papers/hshoneypots.pdf)
   - [Time-traveling Forensic Analysis of VM-basedHigh-interaction Honeypots](https://www.csc2.ncsu.edu/faculty/xjiang4/pubs/SECURECOMM11.pdf)
+  - [SCADA Honeynets: The attractiveness of honeypots as critical infrastructure security tools for the detection and analysis of advanced threats](http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=3130&context=etd)
 - 2010
   - [AHA - Adaptive Honeypot Alternative](http://eah.es/Wagener-AHA-Adaptive-Honeypot-Alternative-slides.pdf)
   - [Honeyware: a web-based low interaction client honeypot](https://www.researchgate.net/publication/220719975_Honeyware_A_Web-Based_Low_Interaction_Client_Honeypot)
