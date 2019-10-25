@@ -170,6 +170,7 @@ Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW
   - [SCADA Honeypots – An In-depth Analysis of Conpot](https://eller.arizona.edu/sites/default/files/arthur_jicha_masters_paper.pdf)
   - [Graph-based Forensic Analysis of Web Honeypot](https://www.itl.waw.pl/czasopisma/JTIT/2016/2/60.pdf)
   - [Poster: Re-thinking the Honeypot for Cyber-Physical Systems](https://www.ieee-security.org/TC/SP2016/poster-abstracts/20-poster_abstract.pdf)
+  - [Characterizing Honeypot-Captured Cyber Attacks: Statistical Framework and Case Study](http://www.cs.utsa.edu/~shxu/socs/tifs-final.pdf)
 - 2015
   - [Deception by Design: Evidence-Based
 Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
