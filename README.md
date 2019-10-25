@@ -264,6 +264,7 @@ Detection](https://www.ei.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012
 Insider Threat](https://www.acsac.org/2003/papers/spitzner-slides.pdf)
   - [Deception Techniques
 Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
+  - [Honeypot: a Supplemented Active Defense System for Network Security](http://folk.uio.no/ingardm/sysarp/honeypot-a_supplemented_active_defense_for_network_security.pdf)
 - 2002
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
