@@ -107,6 +107,7 @@ IoT Devices](https://arxiv.org/pdf/1812.05558.pdf)
 Modeling Honeypots](http://ceur-ws.org/Vol-2081/paper29.pdf)
   - [Web Deception towards Moving Target Defense](https://www.researchgate.net/publication/328542218_Web_Deception_towards_Moving_Target_Defense)
   - [Mitigating Computer Attacks in a Corporate Network using Honeypots: A Case Study of Ghana Education Service](https://www.ijcaonline.org/archives/volume180/number32/agbedanu-2018-ijca-916836.pdf)
+  - [Using Reinforcement Learning to Conceal Honeypot Functionality](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/262.pdf)
 - 2017
   - [Adapting Honeypot Configurations to Detect Evolving Exploits](http://teamcore.usc.edu/people/haifeng/Adverse17/papers/8.pdf)
   - [A New Approach to Detecting Ransomware
