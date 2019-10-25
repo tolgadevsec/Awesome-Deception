@@ -164,6 +164,7 @@ Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW
   - [Deceptive Cyber Defense for IIoT](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=174833&item_no=1&attribute_id=1&file_no=1)
   - [A Survey on Honeypot Software and Data Analysis](https://arxiv.org/pdf/1608.06249.pdf)
   - [Goal-driven deception tactics design](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/644/original/issre2016-goal-driven-deception-pre-cameraready.pdf?1469542781)
+  - [SCADA Honeypots – An In-depth Analysis of Conpot](https://eller.arizona.edu/sites/default/files/arthur_jicha_masters_paper.pdf)
 - 2015
   - [Deception by Design: Evidence-Based
 Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
