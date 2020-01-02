@@ -64,6 +64,8 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2019
+  - [Honware: A Virtual Honeypot Framework for
+Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-honware-virtual-honeypot-framework-ecrime-19.pdf)
   - [Deploying a University Honeypot: A case study](http://ceur-ws.org/Vol-2443/paper03.pdf)
   - [The Art of The Scam: Demystifying Honeypots in Ethereum Smart Contracts](https://www.usenix.org/system/files/sec19-torres.pdf)
   - [General-Sum Cyber Deception Games under Partial AttackerValuation Information](https://www.cais.usc.edu/wp-content/uploads/2019/04/AAMAS2019.pdf)
