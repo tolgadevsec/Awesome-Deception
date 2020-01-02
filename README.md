@@ -11,6 +11,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
 - [A Practical Guide to Honeypots](https://www.cse.wustl.edu/~jain/cse571-09/ftp/honey/)
 - [Learn how to deploy a Honeypot and visualise its data step by step](https://medium.com/@galolbardes/learn-how-to-deploy-a-honeypot-and-visualise-its-data-step-by-step-ea3cd3f25822)
 - [Bypassing LLMNR/NBT-NS honeypot](https://blog.redteam.pl/2019/10/bypassing-llmnr-nbns-honeypot.html)
