@@ -5,6 +5,7 @@ An awesome list of deception technology resources
 # Contents
 - [Articles](#articles)
 - [Communities](#communities)
+- [Guides](#guides)
 - [Related Lists](#related-lists)
 - [Research](#research)
 - [Podcasts](#podcasts)
@@ -51,6 +52,9 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 # Communities
 - [/r/honeypot](https://www.reddit.com/r/honeypot/)
 - [The Honeynet Project](https://www.honeynet.org/)
+
+# Guides
+- [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
 
 # Related Lists
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
@@ -384,3 +388,4 @@ Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
 - [Continuous Security: Monitoring & Active Defense in the Cloud](https://youtu.be/KE80hN5kV6w)
 - [DECEPTICON OPSEC to Slow the OSINT](https://youtu.be/nB6XFIYGg5o)
 - [Getting Started in Cyber Deception](https://youtu.be/cCxbBz1UbnA)
+- [Messing with Portscans with Honeyports (Cyber Deception)](https://youtu.be/hMLStJuNUT0)
