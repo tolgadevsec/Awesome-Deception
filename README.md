@@ -12,6 +12,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Honeyroasting. How to detect Kerberoast breaches with honeypots](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
 - [Deceiving blue teams using anti-forensic techniques](https://blog.redteam.pl/2020/01/deceiving-blue-teams-anti-forensic.html)
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
 - [A Practical Guide to Honeypots](https://www.cse.wustl.edu/~jain/cse571-09/ftp/honey/)
