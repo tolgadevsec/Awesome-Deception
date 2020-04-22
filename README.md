@@ -69,6 +69,8 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
+- 2020
+  - [Lessons Learned from SunDEW: A Self Defense Environment for Web Applications](https://assets.cdn.sap.com/sapcom/docs/2020/02/bc375521-867d-0010-87a3-c30de2ffd8ff.pdf)
 - 2019
   - [Honware: A Virtual Honeypot Framework for
 Capturing CPE and IoT Zero Days](https://www.cl.cam.ac.uk/~amv42/papers/vetterl-clayton-honware-virtual-honeypot-framework-ecrime-19.pdf)
