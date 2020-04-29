@@ -12,6 +12,8 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Honeysploit: Exploiting the Exploiters](https://medium.com/@curtbraz/exploiting-the-exploiters-46fd0d620fd8)
+- [A Tale of Two PoCs or: How I Learned to Stop Worrying and Love the Honeypot](https://patrickriggs.com/blog/a-tale-of-two-pocs-or-how-i-learned-to-stop-worrying-and-love-the-honeypot/)
 - [Honeyroasting. How to detect Kerberoast breaches with honeypots](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
 - [Deceiving blue teams using anti-forensic techniques](https://blog.redteam.pl/2020/01/deceiving-blue-teams-anti-forensic.html)
 - [Endlessh: an SSH Tarpit](https://nullprogram.com/blog/2019/03/22/)
