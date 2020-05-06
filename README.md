@@ -9,6 +9,7 @@ An awesome list of deception technology resources
 - [Related Lists](#related-lists)
 - [Research](#research)
 - [Podcasts](#podcasts)
+- [Presentations](#presentations)
 - [Videos](#videos)
 
 # Articles
@@ -294,6 +295,9 @@ Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
 
 # Podcasts
 - [Active Deception as a Methodology for Cybersecurity](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
+
+# Presentations
+- [Detecting Reverse Engineering with Canaries](https://www.mulliner.org/collin/publications/Detecting_Reverse_Engineering_with_Canaries.pdf)
 
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
