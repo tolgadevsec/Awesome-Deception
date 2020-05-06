@@ -12,6 +12,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Not so IDLE hands: FBI program offers companies data protection via deception](https://arstechnica.com/information-technology/2019/12/not-so-idle-hands-fbi-program-offers-companies-data-protection-via-deception/)
 - [The SunDEW project: learning to pose scalability barriers to attackers](https://medium.com/sap-security-research/the-sundew-project-learning-to-pose-scalability-barriers-to-attackers-9d87a8e3a05a)
 - [Honeysploit: Exploiting the Exploiters](https://medium.com/@curtbraz/exploiting-the-exploiters-46fd0d620fd8)
 - [A Tale of Two PoCs or: How I Learned to Stop Worrying and Love the Honeypot](https://patrickriggs.com/blog/a-tale-of-two-pocs-or-how-i-learned-to-stop-worrying-and-love-the-honeypot/)
