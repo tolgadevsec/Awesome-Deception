@@ -297,6 +297,9 @@ Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
   - [Delaying-type responses for use by software decoys
 ](https://core.ac.uk/download/pdf/36698753.pdf)
   - [Software Decoys: Intrusion Detection and Countermeasures](https://www.researchgate.net/publication/242426017_Software_Decoys_Intrusion_Detection_and_Countermeasures)
+- 1994
+  - [Experiences with Tripwire: Using Integrity Checkers for Intrusion
+Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=cstech)
 
 # Podcasts
 - [Active Deception as a Methodology for Cybersecurity](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
