@@ -75,6 +75,9 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2020
+  - [Towards Identifying Human Actions, Intent, and
+Severity of APT Attacks Applying Deception
+Techniques - An Experiment](https://arxiv.org/pdf/2006.01849.pdf)
   - [Lessons Learned from SunDEW: A Self Defense Environment for Web Applications](https://assets.cdn.sap.com/sapcom/docs/2020/02/bc375521-867d-0010-87a3-c30de2ffd8ff.pdf)
 - 2019
   - [Honware: A Virtual Honeypot Framework for
