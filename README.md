@@ -13,6 +13,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Explain Like I’m Five: Poison Records (Honeypots for Database Tables)](https://medium.com/hackernoon/poison-records-acra-eli5-d78250ef94f)
 - [Not so IDLE hands: FBI program offers companies data protection via deception](https://arstechnica.com/information-technology/2019/12/not-so-idle-hands-fbi-program-offers-companies-data-protection-via-deception/)
 - [The SunDEW project: learning to pose scalability barriers to attackers](https://medium.com/sap-security-research/the-sundew-project-learning-to-pose-scalability-barriers-to-attackers-9d87a8e3a05a)
 - [Honeysploit: Exploiting the Exploiters](https://medium.com/@curtbraz/exploiting-the-exploiters-46fd0d620fd8)
