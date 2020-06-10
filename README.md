@@ -131,6 +131,7 @@ Modeling Honeypots](http://ceur-ws.org/Vol-2081/paper29.pdf)
   - [Mitigating Computer Attacks in a Corporate Network using Honeypots: A Case Study of Ghana Education Service](https://www.ijcaonline.org/archives/volume180/number32/agbedanu-2018-ijca-916836.pdf)
   - [Using Reinforcement Learning to Conceal Honeypot Functionality](http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/262.pdf)
 - 2017
+  - [Lure Box Using Honeytokens for Detecting Cyberattacks](https://github.com/LureBox/LureBox/blob/master/master_thesis/Lure-Box_Using-Honeytokens-for-Detecting-Cyberattacks.pdf)
   - [Adapting Honeypot Configurations to Detect Evolving Exploits](http://teamcore.usc.edu/people/haifeng/Adverse17/papers/8.pdf)
   - [A New Approach to Detecting Ransomware
 with Deception](https://www.ieee-security.org/TC/SP2017/poster-abstracts/IEEE-SP17_Posters_paper_26.pdf)
@@ -306,6 +307,7 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 
 # Presentations
 - [Detecting Reverse Engineering with Canaries](https://www.mulliner.org/collin/publications/Detecting_Reverse_Engineering_with_Canaries.pdf)
+- [Lure Box Using Honeytokens for Detecting Cyberattacks](https://itsecx.fhstp.ac.at/wp-content/uploads/2017/11/07_Malin_LureBox_Presentation_ITSECX-2017.pdf)
 
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
