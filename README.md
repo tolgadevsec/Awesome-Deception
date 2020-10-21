@@ -79,6 +79,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2020
+  - [Towards Reconstructing Multi-Step Cyber Attacks in Modern Cloud Environments with Tripwires](https://arxiv.org/pdf/2009.12115.pdf)
   - [HoPLA: a Honeypot Platform to Lure Attackers](http://www.eurecom.fr/fr/publication/6366/download/sec-publi-6366.pdf)
   - [Towards Identifying Human Actions, Intent, and
 Severity of APT Attacks Applying Deception
