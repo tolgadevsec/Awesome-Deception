@@ -79,6 +79,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2020
+  - [HoPLA: a Honeypot Platform to Lure Attackers](http://www.eurecom.fr/fr/publication/6366/download/sec-publi-6366.pdf)
   - [Towards Identifying Human Actions, Intent, and
 Severity of APT Attacks Applying Deception
 Techniques - An Experiment](https://arxiv.org/pdf/2006.01849.pdf)
@@ -214,6 +215,7 @@ Glastopf](https://www.researchgate.net/profile/Ontiretse_Bagwasi/publication/281
   - [IoTPOT: Analysing the Rise of IoT Compromises](https://christian-rossow.de/publications/iotpot-woot2015.pdf)
   - [Survey on Security Using Honeypot](http://iosrjen.org/Papers/Conf.ICIATE-2018/Volume-12/11-41-44.pdf)
 - 2014
+  - [Aggressive Web Application Honeypot for Exposing Attacker‟s Identity](https://www.researchgate.net/profile/Hudan_Studiawan2/publication/301408199_Aggressive_web_application_honeypot_for_exposing_attacker%27s_identity/links/5aec4e00458515f599820ac7/Aggressive-web-application-honeypot-for-exposing-attackers-identity.pdf)
   - [From Patches to Honey-Patches: Lightweight
 Attacker Misdirection, Deception, and Disinformation](https://www.utd.edu/~kxh060100/araujo14ccs.pdf)
   - [Changing the game: The art of deceiving sophisticated
