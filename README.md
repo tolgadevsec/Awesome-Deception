@@ -13,6 +13,7 @@ An awesome list of deception technology resources
 - [Videos](#videos)
 
 # Articles
+- [Extending a Thinkst Canary to become an interactive honeypot](https://research.nccgroup.com/2020/09/14/extending-a-thinkst-canary-to-become-an-interactive-honeypot/)
 - [HoneyPoC: The fallout data after I trolled the Internet...](https://blog.zsec.uk/cve-2020-1350-honeypoc/)
 - [Experiments in Extending Thinkst Canary – Part 1](https://research.nccgroup.com/2020/07/04/experiments-in-extending-thinkst-canary-part-1/)
 - [Using Canaries for Input Detection and Response](https://websec.io/2018/02/28/Canary-Input-Detect-Response.html)
