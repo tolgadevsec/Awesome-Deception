@@ -420,3 +420,4 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [Deception Modeling Language (DML): Tutorial - Part I](https://youtu.be/5KJZ75IePt4)
 - [Deception Modeling Language (DML): Tutorial - Part II](https://youtu.be/JijdRZviUI0)
 - [ShellCon 2018 Keynote - DIY Blue Teaming](https://youtu.be/9i7GA4Z2vcM)
+- [Black Hat USA 1999 - Burglar alarms and Booby Traps](https://youtu.be/jNDNuoYMIAI)
