@@ -1,6 +1,6 @@
-# Awesome Deception Technology [![Awesome Deception Technology](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Deception [![Awesome Deception](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome list of deception technology resources
+An awesome list of resources on deception-based security with honeypots and honeytokens
 
 # Contents
 - [Articles](#articles)
