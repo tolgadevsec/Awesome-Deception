@@ -312,6 +312,7 @@ Using Honeypots](http://www.isg.rhul.ac.uk/~pnai166/thesis.pdf)
 Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=cstech)
 
 # Podcasts
+- [Origins of Deception Technology with Haroon Meer](https://hackervalley.com/e/episode-74-origins-of-deception-technology-with-haroon-meer/)
 - [Active Deception as a Methodology for Cybersecurity](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
 
 # Presentations
