@@ -82,6 +82,12 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2020
+  - [The Moonraker Study: An Experimental Evaluation of Host-Based Deception](https://www.researchgate.net/profile/Kimberly_Ferguson-Walter2/publication/337464633_The_Moonraker_Study_An_Experimental_Evaluation_of_Host-Based_Deception/links/5dd8cb5292851c1feda8e365/The-Moonraker-Study-An-Experimental-Evaluation-of-Host-Based-Deception.pdf)
+  - [An Empirical Assessment of the Effectiveness of Deception for Cyber Defense](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2890&context=dissertations_2)
+  - [An Intelligent Deployment Policy for Deception Resources Based on Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9001034)
+  - [HoneyDetails: A prototype for ensuring patient’s information privacy and thwarting electronic health record threats based on decoys](https://journals.sagepub.com/doi/pdf/10.1177/1460458219894479)
+  - [Towards systematic honeytoken fingerprinting](https://www.researchgate.net/profile/Emmanouil_Vasilomanolakis/publication/345007931_Towards_systematic_honeytoken_fingerprinting/links/5fa5217692851cc28698f588/Towards-systematic-honeytoken-fingerprinting.pdf)
+  - [Role-Based Deception in Enterprise Networks](https://arxiv.org/pdf/2008.02979.pdf)
   - [DodgeTron: Towards Autonomous Cyber Deception Using Dynamic Hybrid Analysis of Malware](https://www.researchgate.net/profile/Md_Sajidul_Islam_Sajid/publication/341441341_DodgeTron_Towards_Autonomous_Cyber_Deception_Using_Dynamic_Hybrid_Analysis_of_Malware/links/5edc59c7299bf1c67d4ad02a/DodgeTron-Towards-Autonomous-Cyber-Deception-Using-Dynamic-Hybrid-Analysis-of-Malware.pdf)
   - [Cyber Deception for Computer and Network Security: Survey and Challenges](https://arxiv.org/pdf/2007.14497.pdf)
   - [HoneyBug: Personalized Cyber Deception for Web Applications](https://www.researchgate.net/publication/338501968_HoneyBug_Personalized_Cyber_Deception_for_Web_Applications)
@@ -319,6 +325,7 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [Active Deception as a Methodology for Cybersecurity](https://soundcloud.com/owasp-podcast/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree)
 
 # Presentations
+- [Modelling and Generating Fake Websites for Cyber Deception](http://courses.cecs.anu.edu.au/courses/CSPROJECTS/20S1/finalTalks/u5352303.pdf)
 - [Detecting Reverse Engineering with Canaries](https://www.mulliner.org/collin/publications/Detecting_Reverse_Engineering_with_Canaries.pdf)
 - [Lure Box Using Honeytokens for Detecting Cyberattacks](https://itsecx.fhstp.ac.at/wp-content/uploads/2017/11/07_Malin_LureBox_Presentation_ITSECX-2017.pdf)
 - [The smartest way to protect Websites and Web Apps from Attacks](https://www.blackhat.com/docs/webcast/April_Black_Hat_Webcast_Mykonos.pdf)
