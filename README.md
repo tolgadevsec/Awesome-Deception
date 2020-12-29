@@ -82,6 +82,9 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2020
+  - [DodgeTron: Towards Autonomous Cyber Deception Using Dynamic Hybrid Analysis of Malware](https://www.researchgate.net/profile/Md_Sajidul_Islam_Sajid/publication/341441341_DodgeTron_Towards_Autonomous_Cyber_Deception_Using_Dynamic_Hybrid_Analysis_of_Malware/links/5edc59c7299bf1c67d4ad02a/DodgeTron-Towards-Autonomous-Cyber-Deception-Using-Dynamic-Hybrid-Analysis-of-Malware.pdf)
+  - [Cyber Deception for Computer and Network Security: Survey and Challenges](https://arxiv.org/pdf/2007.14497.pdf)
+  - [HoneyBug: Personalized Cyber Deception for Web Applications](https://www.researchgate.net/publication/338501968_HoneyBug_Personalized_Cyber_Deception_for_Web_Applications)
   - [Towards Reconstructing Multi-Step Cyber Attacks in Modern Cloud Environments with Tripwires](https://arxiv.org/pdf/2009.12115.pdf)
   - [HoPLA: a Honeypot Platform to Lure Attackers](http://www.eurecom.fr/fr/publication/6366/download/sec-publi-6366.pdf)
   - [Towards Identifying Human Actions, Intent, and
