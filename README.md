@@ -14,6 +14,8 @@ An awesome list of resources on deception-based security with honeypots and hone
 
 # Articles
 - [Deploy and monitor Azure Key Vault honeytokens with Azure Sentinel (Public preview)](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens)
+- [Honeypot Journals: Credential Attacks and Lessons from Recent Honeynet Incursions](https://cujo.com/honeypot-journals-credential-attacks/)
+- [Honeypot Journals Part II: Attacks on Residential Endpoints](https://cujo.com/honeypot-journals-part-ii-attacks-on-residential-endpoints/)
 - [Deception Engineering: exploring the use of Windows Service Canaries against ransomware](https://research.nccgroup.com/2021/03/04/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/)
 - [Ensnare Attack Detection Tool Hopes to Frustrate Hackers, Too](https://threatpost.com/ensnare-attack-detection-tool-hopes-to-frustrate-hackers-too/105379/)
 - [Honeypots: Good servers in dark alleys can be an enterprise asset](https://techmonitor.ai/cybersecurity/honeypots-jason-schorr)
