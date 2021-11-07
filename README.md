@@ -13,6 +13,7 @@ An awesome list of resources on deception-based security with honeypots and hone
 - [Videos](#videos)
 
 # Articles
+- [Deploy and monitor Azure Key Vault honeytokens with Azure Sentinel (Public preview)](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens)
 - [Deception Engineering: exploring the use of Windows Service Canaries against ransomware](https://research.nccgroup.com/2021/03/04/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/)
 - [Ensnare Attack Detection Tool Hopes to Frustrate Hackers, Too](https://threatpost.com/ensnare-attack-detection-tool-hopes-to-frustrate-hackers-too/105379/)
 - [Honeypots: Good servers in dark alleys can be an enterprise asset](https://techmonitor.ai/cybersecurity/honeypots-jason-schorr)
@@ -82,6 +83,10 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
+- 2021
+  - [Lamboozling Attackers: A New Generation of Deception](https://queue.acm.org/detail.cfm?id=3494836) 
+  - [Click This, Not That:
+Extending Web Authentication with Deception](https://www.researchgate.net/profile/Timothy-Barron/publication/352146997_Click_This_Not_That_Extending_Web_Authentication_with_Deception/links/60c2bf0aa6fdcc2e61317fbc/Click-This-Not-That-Extending-Web-Authentication-with-Deception.pdf)
 - 2020
   - [The Moonraker Study: An Experimental Evaluation of Host-Based Deception](https://www.researchgate.net/profile/Kimberly_Ferguson-Walter2/publication/337464633_The_Moonraker_Study_An_Experimental_Evaluation_of_Host-Based_Deception/links/5dd8cb5292851c1feda8e365/The-Moonraker-Study-An-Experimental-Evaluation-of-Host-Based-Deception.pdf)
   - [An Empirical Assessment of the Effectiveness of Deception for Cyber Defense](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2890&context=dissertations_2)
