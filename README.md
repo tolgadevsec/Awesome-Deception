@@ -446,3 +446,4 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [ShellCon 2018 Keynote - DIY Blue Teaming](https://youtu.be/9i7GA4Z2vcM)
 - [Black Hat USA 1999 - Burglar alarms and Booby Traps](https://youtu.be/jNDNuoYMIAI)
 - [When the Tables Turn](https://www.youtube.com/watch?v=GoxRlMHeO4M)
+- [Hackers Want Passwords](https://www.youtube.com/watch?v=zatXHKgPnec)
