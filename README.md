@@ -65,6 +65,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 - [To Honey or not to Honey](https://www.cyberstuff.org/articles/to-honey-or-not-to-honey)
 
 # Communities
+- [/r/cyber_deception](https://www.reddit.com/r/cyber_deception/)
 - [/r/honeypot](https://www.reddit.com/r/honeypot/)
 - [The Honeynet Project](https://www.honeynet.org/)
 
