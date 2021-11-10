@@ -13,6 +13,7 @@ An awesome list of resources on deception-based security with honeypots and hone
 - [Videos](#videos)
 
 # Articles
+- [yesman--Scanner Honeypot with scapy](https://samsclass.info/124/proj11/p17-123-yesman.html)
 - [Deploy and monitor Azure Key Vault honeytokens with Azure Sentinel (Public preview)](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens)
 - [Honeypot Journals: Credential Attacks and Lessons from Recent Honeynet Incursions](https://cujo.com/honeypot-journals-credential-attacks/)
 - [Honeypot Journals Part II: Attacks on Residential Endpoints](https://cujo.com/honeypot-journals-part-ii-attacks-on-residential-endpoints/)
