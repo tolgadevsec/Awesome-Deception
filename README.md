@@ -94,6 +94,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
   - [Lamboozling Attackers: A New Generation of Deception](https://queue.acm.org/detail.cfm?id=3494836) 
   - [Click This, Not That:
 Extending Web Authentication with Deception](https://www.researchgate.net/profile/Timothy-Barron/publication/352146997_Click_This_Not_That_Extending_Web_Authentication_with_Deception/links/60c2bf0aa6fdcc2e61317fbc/Click-This-Not-That-Extending-Web-Authentication-with-Deception.pdf)
+  - [Angry Birding: Evaluating Application Exceptions as Attack Canaries](https://rke.abertay.ac.uk/en/publications/angry-birding-evaluating-application-exceptions-as-attack-canarie)
   - [Three Decades of Deception Techniques in Active Cyber Defense - Retrospect and Outlook](https://arxiv.org/pdf/2104.03594.pdf)
   - [A Comparative Analysis of Honeypots on Different Cloud Platforms](https://www.mdpi.com/1424-8220/21/7/2433/pdf)
 - 2020
