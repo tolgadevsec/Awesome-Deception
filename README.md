@@ -77,6 +77,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 # Frameworks
 - [MITRE Engage™](https://engage.mitre.org/resources/getting-started)
 - [MITRE D3FEND™](https://d3fend.mitre.org/)
+- [Deception-as-Detection](https://github.com/0x4D31/deception-as-detection)
 
 # Guides
 - [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
