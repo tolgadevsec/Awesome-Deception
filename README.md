@@ -463,3 +463,4 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [Black Hat USA 1999 - Burglar alarms and Booby Traps](https://youtu.be/jNDNuoYMIAI)
 - [When the Tables Turn](https://www.youtube.com/watch?v=GoxRlMHeO4M)
 - [Hackers Want Passwords](https://www.youtube.com/watch?v=zatXHKgPnec)
+- [Honeytokens: Detecting Attacks to Your Web Apps Using Decoys and Deception](https://youtu.be/5dukn9hcy_Q)
