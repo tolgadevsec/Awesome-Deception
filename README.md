@@ -464,3 +464,4 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [When the Tables Turn](https://www.youtube.com/watch?v=GoxRlMHeO4M)
 - [Hackers Want Passwords](https://www.youtube.com/watch?v=zatXHKgPnec)
 - [Honeytokens: Detecting Attacks to Your Web Apps Using Decoys and Deception](https://youtu.be/5dukn9hcy_Q)
+- [Web Application Honeypot Threat Intelligence](https://www.youtube.com/watch?v=Pr43GUdkxHU)
