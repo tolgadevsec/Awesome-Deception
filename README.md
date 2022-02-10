@@ -90,6 +90,8 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 ### Groups and Laboratories
 - [UK National Cyber Deception Laboratory](https://www.cyberdeception.org.uk/)
 - [Purdue University - Deception Group](https://www.cerias.purdue.edu/site/deception/)
+### Workshops
+- [Active Defense & Deception (AD&D)](https://adnd.work/)
 
 ### Lecture Slides
 - [University of New Haven - Deception in Defense of
