@@ -82,6 +82,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 # Guides
 - [Birding Guide - Detect attackers without breaking the bank](http://canary-content.s3-website-us-east-1.amazonaws.com/documents/birding-guide.pdf)
 - [OWASP AppSensor Guide - Application-Specific Real Time Attack Detection & Response](https://owasp.org/www-pdf-archive/Owasp-appsensor-guide-v2.pdf)
+- [A Practical Guide to Honeypots](https://www.cse.wustl.edu/~jain/cse571-09/ftp/honey/)
 
 # Related Lists
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
