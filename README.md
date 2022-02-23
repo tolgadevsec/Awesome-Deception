@@ -14,6 +14,7 @@ An awesome list of resources on deception-based security with honeypots and hone
 - [Videos](#videos)
 
 # Articles
+- [Dripping a Little Honey in your Environment](https://marcusedmondson.com/2022/02/21/dripping-a-little-honey-in-your-environment/)
 - [Trapdoor - The serverless HTTP honeypot](https://blog.3coresec.com/2021/03/trapdoor-serverless-http-honeypot.html)
 - [yesman--Scanner Honeypot with scapy](https://samsclass.info/124/proj11/p17-123-yesman.html)
 - [Deploy and monitor Azure Key Vault honeytokens with Azure Sentinel (Public preview)](https://docs.microsoft.com/en-us/azure/sentinel/monitor-key-vault-honeytokens)
