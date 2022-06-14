@@ -100,6 +100,8 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
+- 2022
+  - [Deceptive directories and “vulnerable” logs: a honeypot study of the LDAP and log4j attack landscape](https://www.researchgate.net/profile/Emmanouil-Vasilomanolakis/publication/360015240_Deceptive_directories_and_vulnerable_logs_a_honeypot_study_of_the_LDAP_and_log4j_attack_landscape/links/625d32f69be52845a90c238c/Deceptive-directories-and-vulnerable-logs-a-honeypot-study-of-the-LDAP-and-log4j-attack-landscape.pdf)
 - 2021
   - [Lamboozling Attackers: A New Generation of Deception](https://queue.acm.org/detail.cfm?id=3494836) 
   - [Click This, Not That:
