@@ -109,6 +109,8 @@ Extending Web Authentication with Deception](https://www.researchgate.net/profil
   - [Angry Birding: Evaluating Application Exceptions as Attack Canaries](https://rke.abertay.ac.uk/en/publications/angry-birding-evaluating-application-exceptions-as-attack-canarie)
   - [Three Decades of Deception Techniques in Active Cyber Defense - Retrospect and Outlook](https://arxiv.org/pdf/2104.03594.pdf)
   - [A Comparative Analysis of Honeypots on Different Cloud Platforms](https://www.mdpi.com/1424-8220/21/7/2433/pdf)
+  - [RIoTPot: a modular hybrid-interaction IoT/OT honeypot](https://www.researchgate.net/profile/Emmanouil-Vasilomanolakis/publication/353794760_RIoTPot_a_modular_hybrid-interaction_IoTOT_honeypot/links/6112479c169a1a0103ee1bd0/RIoTPot-a-modular-hybrid-interaction-IoT-OT-honeypot.pdf)
+  - [GOTTA CATCH ’EM ALL: A MULTISTAGE FRAMEWORK FOR HONEYPOT FINGERPRINTING](https://arxiv.org/pdf/2109.10652.pdf)
 - 2020
   - [Honeypots in the age of universal attacks and the Internet of Things](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-944.pdf)
   - [The Moonraker Study: An Experimental Evaluation of Host-Based Deception](https://www.researchgate.net/profile/Kimberly_Ferguson-Walter2/publication/337464633_The_Moonraker_Study_An_Experimental_Evaluation_of_Host-Based_Deception/links/5dd8cb5292851c1feda8e365/The-Moonraker-Study-An-Experimental-Evaluation-of-Host-Based-Deception.pdf)
@@ -239,6 +241,7 @@ Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW
   - [Graph-based Forensic Analysis of Web Honeypot](https://www.itl.waw.pl/czasopisma/JTIT/2016/2/60.pdf)
   - [Poster: Re-thinking the Honeypot for Cyber-Physical Systems](https://www.ieee-security.org/TC/SP2016/poster-abstracts/20-poster_abstract.pdf)
   - [Characterizing Honeypot-Captured Cyber Attacks: Statistical Framework and Case Study](http://www.cs.utsa.edu/~shxu/socs/tifs-final.pdf)
+  - [Multi-stage Attack Detection and Signature Generation with ICS Honeypots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7502992)
 - 2015
   - [Deception by Design: Evidence-Based
 Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
@@ -256,6 +259,7 @@ Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurose
 Glastopf](https://www.researchgate.net/profile/Ontiretse_Bagwasi/publication/281063918_Deception_in_Dynamic_Web_Application_Honeypots_Case_of_Glastopf/links/5666ac9508ae192bbf928baf/Deception-in-Dynamic-Web-Application-Honeypots-Case-of-Glastopf.pdf)
   - [IoTPOT: Analysing the Rise of IoT Compromises](https://christian-rossow.de/publications/iotpot-woot2015.pdf)
   - [Survey on Security Using Honeypot](http://iosrjen.org/Papers/Conf.ICIATE-2018/Volume-12/11-41-44.pdf)
+  - [Multi-stage Attack Detection and Signature Generation with ICS Honeypots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7346907)
 - 2014
   - [Aggressive Web Application Honeypot for Exposing Attacker‟s Identity](https://www.researchgate.net/profile/Hudan_Studiawan2/publication/301408199_Aggressive_web_application_honeypot_for_exposing_attacker%27s_identity/links/5aec4e00458515f599820ac7/Aggressive-web-application-honeypot-for-exposing-attackers-identity.pdf)
   - [From Patches to Honey-Patches: Lightweight
