@@ -104,6 +104,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
   - [Lethe: Practical Data Breach Detection with Zero Persistent Secret State](https://www.cs.ucy.ac.cy/~elathan/papers/eurosp22.pdf)
   - [Deceptive directories and “vulnerable” logs: a honeypot study of the LDAP and log4j attack landscape](https://www.researchgate.net/profile/Emmanouil-Vasilomanolakis/publication/360015240_Deceptive_directories_and_vulnerable_logs_a_honeypot_study_of_the_LDAP_and_log4j_attack_landscape/links/625d32f69be52845a90c238c/Deceptive-directories-and-vulnerable-logs-a-honeypot-study-of-the-LDAP-and-log4j-attack-landscape.pdf)
 - 2021
+  - [Examining the Efficacy of Decoy-based and Psychological Cyber Deception](https://www.usenix.org/system/files/sec21-ferguson-walter.pdf)
   - [Lamboozling Attackers: A New Generation of Deception](https://queue.acm.org/detail.cfm?id=3494836) 
   - [Click This, Not That:
 Extending Web Authentication with Deception](https://www.researchgate.net/profile/Timothy-Barron/publication/352146997_Click_This_Not_That_Extending_Web_Authentication_with_Deception/links/60c2bf0aa6fdcc2e61317fbc/Click-This-Not-That-Extending-Web-Authentication-with-Deception.pdf)
@@ -478,3 +479,4 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [Web Application Honeypot Threat Intelligence](https://www.youtube.com/watch?v=Pr43GUdkxHU)
 - [Faking a Factory: Creating and Operating a Realistic Honeypot](https://www.youtube.com/watch?v=4y7JJoZd0ic)
 - [Active Defense Web Edition: Web Apps Dripping with Honey!](https://www.youtube.com/watch?v=iX9Q21LEtZY)
+- [Examining the Efficacy of Decoy-based and Psychological Cyber Deception](https://youtu.be/FgXLRnvC4MI)
