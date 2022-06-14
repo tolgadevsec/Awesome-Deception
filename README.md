@@ -73,6 +73,7 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 
 # Books
 - [Intrusion Detection Honeypots: Detection through Deception](https://chrissanders.org/2020/09/idh-release/)
+- [Offensive Countermeasures: The Art of Active Defense](https://www.blackhillsinfosec.com/projects/books/)
 
 # Communities
 - [/r/cyber_deception](https://www.reddit.com/r/cyber_deception/)
