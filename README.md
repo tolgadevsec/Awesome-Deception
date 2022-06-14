@@ -4,6 +4,7 @@ An awesome list of resources on deception-based security with honeypots and hone
 
 # Contents
 - [Articles](#articles)
+- [Books](#books)
 - [Communities](#communities)
 - [Frameworks](#frameworks)
 - [Guides](#guides)
@@ -69,6 +70,9 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 - [“Deception as Detection” or Give Deception a Chance?](https://blogs.gartner.com/anton-chuvakin/2016/01/08/deception-as-detection-or-give-deception-a-chance/)
 - [Deploy a fake Bitcoin wallet to save your own](https://www.theregister.co.uk/2014/06/05/deploy_a_fake_bitcoin_wallet_to_save_your_own/)
 - [To Honey or not to Honey](https://www.cyberstuff.org/articles/to-honey-or-not-to-honey)
+
+# Books
+- [Intrusion Detection Honeypots: Detection through Deception](https://chrissanders.org/2020/09/idh-release/)
 
 # Communities
 - [/r/cyber_deception](https://www.reddit.com/r/cyber_deception/)
