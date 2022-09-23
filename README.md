@@ -15,6 +15,12 @@ An awesome list of resources on deception-based security with honeypots and hone
 - [Videos](#videos)
 
 # Articles
+- [Creating REST API Canary endpoints](https://blog.thinkst.com/2022/07/creating-rest-api-canary-endpoints.html)
+- [Imposing a Cyber Penalty Against Attackers with Cyber Deception](https://www.usenix.org/publications/loginonline/imposing-cyber-penalty-against-attackers-cyber-deception)
+- [Defeating Ransomware by Using Sysmon and PowerShell](https://posts.bluraven.io/defeating-ransomware-by-using-sysmon-and-powershell-b671920f3bb1)
+- [Canaries as Network Motion Sensors](https://blog.thinkst.com/2022/08/canaries-as-network-motion-sensors.html)
+- [NGINX honeypot — the easiest and fastest way to block bots!](https://medium.com/@getpagespeed/nginx-honeypot-the-easiest-and-fastest-way-to-block-bots-7c28166eb349)
+- [Monitor a Honeypot with Azure App Insights](https://rsquaredpolicy.medium.com/monitor-a-honeypot-with-azure-app-insights-28a0f0f3508f)
 - [Dripping a Little Honey in your Environment](https://marcusedmondson.com/2022/02/21/dripping-a-little-honey-in-your-environment/)
 - [Trapdoor - The serverless HTTP honeypot](https://blog.3coresec.com/2021/03/trapdoor-serverless-http-honeypot.html)
 - [yesman--Scanner Honeypot with scapy](https://samsclass.info/124/proj11/p17-123-yesman.html)
@@ -107,6 +113,9 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
 - 2022
+  - [An Approach to Generate Realistic HTTP Parameters for Application Layer Deception](https://link.springer.com/chapter/10.1007/978-3-031-09234-3_17)
+  - [Honeyword-based Authentication Techniques for Protecting Passwords: A Survey](https://scholar.archive.org/work/byawhpnshvetfgr3vsolfurmiu/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3552431)
+  - [Multi-factor Authentication Mechanism Based on Browser Fingerprinting and Graphical HoneyTokens](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1670220&dswid=-5847)
   - [Lethe: Practical Data Breach Detection with Zero Persistent Secret State](https://www.cs.ucy.ac.cy/~elathan/papers/eurosp22.pdf)
   - [Deceptive directories and “vulnerable” logs: a honeypot study of the LDAP and log4j attack landscape](https://www.researchgate.net/profile/Emmanouil-Vasilomanolakis/publication/360015240_Deceptive_directories_and_vulnerable_logs_a_honeypot_study_of_the_LDAP_and_log4j_attack_landscape/links/625d32f69be52845a90c238c/Deceptive-directories-and-vulnerable-logs-a-honeypot-study-of-the-LDAP-and-log4j-attack-landscape.pdf)
 - 2021
@@ -486,3 +495,6 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [Faking a Factory: Creating and Operating a Realistic Honeypot](https://www.youtube.com/watch?v=4y7JJoZd0ic)
 - [Active Defense Web Edition: Web Apps Dripping with Honey!](https://www.youtube.com/watch?v=iX9Q21LEtZY)
 - [Examining the Efficacy of Decoy-based and Psychological Cyber Deception](https://youtu.be/FgXLRnvC4MI)
+- [Detecting Responder via LLMNR Honey Tasks on User Workstations](https://www.youtube.com/watch?v=h_cWWL-yyb0)
+- [Monitoring Sensitive Windows Commands via CanaryTokens - Deploying Registry Entries via Group Policy](https://www.youtube.com/watch?v=xFlH3DV0J7I)
+- [Combining AD Honey Pot Accounts with Canaries to Detect Password Sprays and Kerberoasting for free!](https://www.youtube.com/watch?v=BT9pT1tAmX8)
