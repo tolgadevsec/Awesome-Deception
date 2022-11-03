@@ -1,6 +1,8 @@
 # Awesome Deception [![Awesome Deception](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome list of resources on deception-based security with honeypots and honeytokens
+An awesome list of resources on deception-based security with honeypots and honeytokens.
+
+> Note: This list will not be further maintained but it will stay available in this repository. Currently, I'm developing plans for a similar but more developer-centered resource with application intrusion detection and response as an overarching theme -> Suggestions and ideas are more than welcome. In the meantime, feel free to send along or suggest suitable deception content you would like to see in this list via pull requests. 
 
 # Contents
 - [Articles](#articles)
