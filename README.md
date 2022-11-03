@@ -498,3 +498,4 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [Detecting Responder via LLMNR Honey Tasks on User Workstations](https://www.youtube.com/watch?v=h_cWWL-yyb0)
 - [Monitoring Sensitive Windows Commands via CanaryTokens - Deploying Registry Entries via Group Policy](https://www.youtube.com/watch?v=xFlH3DV0J7I)
 - [Combining AD Honey Pot Accounts with Canaries to Detect Password Sprays and Kerberoasting for free!](https://www.youtube.com/watch?v=BT9pT1tAmX8)
+- [Hacker Interrupted: Detecting and Preventing Hackers on Your Website Using Deception](https://www.youtube.com/watch?v=jKKh4n5Klps)
