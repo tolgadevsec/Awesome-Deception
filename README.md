@@ -381,6 +381,7 @@ Detection](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2114&context=
 - [Detecting Reverse Engineering with Canaries](https://www.mulliner.org/collin/publications/Detecting_Reverse_Engineering_with_Canaries.pdf)
 - [Lure Box Using Honeytokens for Detecting Cyberattacks](https://itsecx.fhstp.ac.at/wp-content/uploads/2017/11/07_Malin_LureBox_Presentation_ITSECX-2017.pdf)
 - [The smartest way to protect Websites and Web Apps from Attacks](https://www.blackhat.com/docs/webcast/April_Black_Hat_Webcast_Mykonos.pdf)
+- [Sorry Your Princess is in Another Castle: Intrusion Deception to Protect the Web](https://slideum.com/doc/1172550/intrusion-deception-kyle-adams-%E2%80%93-chief-software-architect...)
 
 # Videos
 - [Advanced Deception Technology Through Behavioral Biometrics](https://www.youtube.com/watch?v=CkFEDPPg9L0)
