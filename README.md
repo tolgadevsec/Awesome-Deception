@@ -261,7 +261,6 @@ Intrusion Detection Using Honeypots](https://www.aaai.org/ocs/index.php/WS/AAAIW
   - [Graph-based Forensic Analysis of Web Honeypot](https://www.itl.waw.pl/czasopisma/JTIT/2016/2/60.pdf)
   - [Poster: Re-thinking the Honeypot for Cyber-Physical Systems](https://www.ieee-security.org/TC/SP2016/poster-abstracts/20-poster_abstract.pdf)
   - [Characterizing Honeypot-Captured Cyber Attacks: Statistical Framework and Case Study](http://www.cs.utsa.edu/~shxu/socs/tifs-final.pdf)
-  - [Multi-stage Attack Detection and Signature Generation with ICS Honeypots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7502992)
 - 2015
   - [Deception by Design: Evidence-Based
 Signaling Games for Network Defense](https://arxiv.org/pdf/1503.05458.pdf)
@@ -279,7 +278,6 @@ Decoy Document Deployment](http://ids.cs.columbia.edu/sites/default/files/eurose
 Glastopf](https://www.researchgate.net/profile/Ontiretse_Bagwasi/publication/281063918_Deception_in_Dynamic_Web_Application_Honeypots_Case_of_Glastopf/links/5666ac9508ae192bbf928baf/Deception-in-Dynamic-Web-Application-Honeypots-Case-of-Glastopf.pdf)
   - [IoTPOT: Analysing the Rise of IoT Compromises](https://christian-rossow.de/publications/iotpot-woot2015.pdf)
   - [Survey on Security Using Honeypot](http://iosrjen.org/Papers/Conf.ICIATE-2018/Volume-12/11-41-44.pdf)
-  - [Multi-stage Attack Detection and Signature Generation with ICS Honeypots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7346907)
 - 2014
   - [Aggressive Web Application Honeypot for Exposing Attacker‟s Identity](https://www.researchgate.net/profile/Hudan_Studiawan2/publication/301408199_Aggressive_web_application_honeypot_for_exposing_attacker%27s_identity/links/5aec4e00458515f599820ac7/Aggressive-web-application-honeypot-for-exposing-attackers-identity.pdf)
   - [From Patches to Honey-Patches: Lightweight
