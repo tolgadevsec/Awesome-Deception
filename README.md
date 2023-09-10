@@ -119,6 +119,7 @@ Information Systems](http://all.net/courses.all.net/Deception/)
 - 2023
   - [HoneyKube: Designing and Deploying a Microservices-based Web Honeypot](https://ris.utwente.nl/ws/portalfiles/portal/303815192/main.pdf)
   - [An Empirical Analysis of Cyber Deception Systems](https://vbn.aau.dk/files/539415752/PHD_TECH_SS.pdf)
+  - [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://arxiv.org/pdf/2301.10502)
 - 2022
   - [An Approach to Generate Realistic HTTP Parameters for Application Layer Deception](https://link.springer.com/chapter/10.1007/978-3-031-09234-3_17)
   - [Honeyword-based Authentication Techniques for Protecting Passwords: A Survey](https://scholar.archive.org/work/byawhpnshvetfgr3vsolfurmiu/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3552431)
