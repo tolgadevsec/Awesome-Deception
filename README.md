@@ -17,6 +17,7 @@ An awesome list of resources on deception-based security with honeypots and hone
 - [Videos](#videos)
 
 # Articles
+- [Valve used secret memory access “honeypot” to detect 40K Dota 2 cheaters](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/)
 - [Creating REST API Canary endpoints](https://blog.thinkst.com/2022/07/creating-rest-api-canary-endpoints.html)
 - [Imposing a Cyber Penalty Against Attackers with Cyber Deception](https://www.usenix.org/publications/loginonline/imposing-cyber-penalty-against-attackers-cyber-deception)
 - [Defeating Ransomware by Using Sysmon and PowerShell](https://posts.bluraven.io/defeating-ransomware-by-using-sysmon-and-powershell-b671920f3bb1)
@@ -115,6 +116,9 @@ on a Digital Ocean node in Singapore. I have data.](https://hackertarget.com/cow
 Information Systems](http://all.net/courses.all.net/Deception/)
 
 ### Papers and Theses
+- 2023
+  - [HoneyKube: Designing and Deploying a Microservices-based Web Honeypot](https://ris.utwente.nl/ws/portalfiles/portal/303815192/main.pdf)
+  - [An Empirical Analysis of Cyber Deception Systems](https://vbn.aau.dk/files/539415752/PHD_TECH_SS.pdf)
 - 2022
   - [An Approach to Generate Realistic HTTP Parameters for Application Layer Deception](https://link.springer.com/chapter/10.1007/978-3-031-09234-3_17)
   - [Honeyword-based Authentication Techniques for Protecting Passwords: A Survey](https://scholar.archive.org/work/byawhpnshvetfgr3vsolfurmiu/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3552431)
