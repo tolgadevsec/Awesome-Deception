@@ -345,7 +345,7 @@ techniques](https://pdfs.semanticscholar.org/d6ea/917966221a7bccc9a74418582f2cb1
   - [Testing and validation of a dynamic honeypot
 system](http://www.sislab.no/jantore_project.pdf)
   - [Advanced Honeypot-based Intrusion
-Detection](https://www.ei.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012/08/07/Honeypot-ids_USENIX06.pdf)
+Detection](https://www.usenix.org/system/files/login/articles/822/goebel.pdf)
   - [Honeypots: How do you know when you are inside one?](https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1027&context=adf)
   - [Lessons learned from the deployment of a high-interaction honeypot](https://arxiv.org/ftp/arxiv/papers/0704/0704.0858.pdf)
 - 2005
