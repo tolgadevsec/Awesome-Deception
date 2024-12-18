@@ -14,7 +14,7 @@ An awesome list of resources on deception-based computer security with honeypots
 
 # Articles
 - 🎮 Catching cheaters by detecting access to a [secret memory area](https://www.dota2.com/newsentry/3677788723152833273).
-- 🦜 Detecting Ransomware activtiy which shuts down [windows service canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/).
+- 👿 Detecting Ransomware activtiy interacting with [windows service canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/).
 - ☠️ Database intrusion detection through [poison records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f).
 - 💳 Detecting a data breach with [credit card canaries](https://blog.thinkst.com/2024/12/its-baaack-credit-card-canarytokens-are-now-on-your-consoles.html).
 
