@@ -36,13 +36,16 @@ An awesome list of resources on deception-based computer security with honeypots
 
 # Research
 
-### Survey Papers
-- [Demystifying Deception Technology: A Survey](https://arxiv.org/abs/1804.06196)
-- [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/doi/abs/10.1145/3214305)
-
+### Code
+- [Evaluating Deception and Moving Target Defense with Network Attack Simulation](https://github.com/dfki-in-sec/NASIM-MTD)
+- [Knocking on Admin’s Door: Protecting Critical Web Applications with Deception](https://github.com/BillyPragSec/pageknocking)
+- [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://github.com/dfki-in-sec/SCANTRAP)
 ### Groups and Laboratories
 - [DFK IN - Cyber Resilience and Security](https://github.com/dfki-in-sec)
-- [UK National Cyber Deception Laboratory](https://www.cyberdeception.org.uk/)
 - [Purdue University - Deception Group](https://www.cerias.purdue.edu/site/deception/)
+- [UK National Cyber Deception Laboratory](https://www.cyberdeception.org.uk/)
+### Survey Papers
+- [Deception Techniques in Computer Security: A Research Perspective](https://dl.acm.org/doi/abs/10.1145/3214305)
+- [Demystifying Deception Technology: A Survey](https://arxiv.org/abs/1804.06196)
 ### Workshops
 - [Active Defense & Deception (AD&D)](https://adnd.work/)
