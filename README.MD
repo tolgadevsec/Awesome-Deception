@@ -13,10 +13,16 @@ An awesome list of resources on deception-based computer security with honeypots
 - [Research](#research)
 
 # Articles
-- 🎮 Catching cheaters by detecting access to a [secret memory area](https://www.dota2.com/newsentry/3677788723152833273).
-- 👿 Detecting Ransomware activitiy interacting with [windows service canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/).
-- ☠️ Database intrusion detection through [poison records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f).
-- 💳 Detecting a data breach with [credit card canaries](https://blog.thinkst.com/2024/12/its-baaack-credit-card-canarytokens-are-now-on-your-consoles.html).
+- 🎮 Valve used [secret memory access “honeypot”](https://arstechnica.com/gaming/2023/02/valve-used-secret-memory-access-honeypot-to-detect-40k-dota-2-cheaters/) to detect 40K Dota 2 cheaters.
+
+  - [Discussion on hacker news](https://news.ycombinator.com/item?id=34909218) on potential implementation techniques.  
+- 👿 Deception Engineering: exploring the use of [Windows Service Canaries](https://www.nccgroup.com/us/research-blog/deception-engineering-exploring-the-use-of-windows-service-canaries-against-ransomware/) against ransomware.
+  - [KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary) Code Repository.
+- ☠️ Explain Like I'm Five: [Poison Records](https://hackernoon.com/poison-records-acra-eli5-d78250ef94f) (Honeypots for Database Tables).
+  - [Acra Poison Records](https://github.com/cossacklabs/acra-poison-records-demo) Demo Code Repository.
+- 💳 It’s Baaack… [Credit Card Canarytokens](https://blog.thinkst.com/2024/12/its-baaack-credit-card-canarytokens-are-now-on-your-consoles.html) are now on your Consoles.
+- 🍯 Introducing HASH: The HTTP Agnostic Software [Honeypot framework](https://securitylabs.datadoghq.com/articles/hash-honeypot-framework/) for creating HTTP low-interaction honeypots.
+  - [HASH](https://github.com/DataDog/hash) Code Repository.
 
 # Communities
 - [/r/cyber_deception](https://www.reddit.com/r/cyber_deception/)
@@ -36,7 +42,7 @@ An awesome list of resources on deception-based computer security with honeypots
 
 # Research
 
-### Code
+### Code Repositories
 - [Evaluating Deception and Moving Target Defense with Network Attack Simulation](https://github.com/dfki-in-sec/NASIM-MTD)
 - [Knocking on Admin’s Door: Protecting Critical Web Applications with Deception](https://github.com/BillyPragSec/pageknocking)
 - [SCANTRAP: Protecting Content Management Systems from Vulnerability Scanners with Cyber Deception and Obfuscation](https://github.com/dfki-in-sec/SCANTRAP)
